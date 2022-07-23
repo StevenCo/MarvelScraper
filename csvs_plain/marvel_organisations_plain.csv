@@ -1,0 +1,518 @@
+organisationId,name,status,headquarters
+1,10 News,Active,
+2,107th Infantry Regiment,Disbanded,"Latham, New York"
+3,4 News,Active,
+4,5 Albany,Active,
+5,6 New York,Active,
+6,92nd Infantry Regiment,Defunct,
+7,A.I.M.,Unknown,
+8,A.R.M.O.R.,Unknown,
+9,AccuTech,Active,California
+10,Action News,Active,
+11,Adrian Toomes' Crew,Defunct,
+12,ADS News,Active,
+13,Advanced Threat Containment Unit,Active,Endotex Labs
+14,Afghan Insurgents,Unknown,
+15,Afghan National Police,Active,
+16,African American College Alliance,Active,
+17,Air National Guard,Active,
+18,Albanian Syndicate,Inactive,
+19,Aleta Ravager Clan,Active,Aleta Ogord Warship
+20,Alias Investigations,Active,Alias Investigations Office
+21,Alien Abductee Anonymous,Active,
+22,Almeida Concrete Pumping and Equipment,Active,
+23,American Journal of Experimental Medicine,Active,
+24,Anvil,Disbanded,Anvil Headquarters
+25,Architectural Designer,Active,
+26,ARN,Active,
+27,Aryan Brotherhood,Active,
+28,Asano Robotics,Active,Yakatomi Building
+29,ATF,Active,"Washington, D.C."
+30,Atreus Plastics,Merged with Glenn Industries,
+31,Attilan Rebel Movement,,
+32,Attilan Royal Guard,Active,"Attilan, Moon"
+33,Australian Threat Unit,Active,
+34,Avenger Tours,,
+35,Batesville Fire Department,Active,
+36,Baxter Foundation,Active,Illuminati Headquarters
+37,Behavior Health Department,Active,
+38,Berserker Army,Unknown,Asgard
+39,Berserkers,Defunct,
+40,Beverly Hills Tribune,Active,
+41,Big Apple News,Active,
+42,Bishop Security,Active,Bishop Security Headquarters
+43,Blip Sync,Active,
+44,Blood,Active,
+45,Border Tribe,Active,Border Village
+46,Border Tribe/Ravager T'Challa,Active,
+47,Brand Corporation,Active,
+48,British Armed Forces,Active,
+49,British Armed Forces/Super Soldier Peggy Carter,Active,
+50,British Post,Active,
+51,Brooklyn Comet,Active,
+52,Brooklyn Suicide Prevention Center,Active,
+53,Brooklyn Support Group,Active,
+54,Brown Jovi,Active,
+55,Buzzcom,Active,
+56,Cadre,Active,
+57,California (newspaper),Active,
+58,California Experience,Active,
+59,Callisto Aerospace,Active,Callisto Aerospace Control Center
+60,Carbone Crime Family,Active,Rosalie Carbone's Office
+61,Celeb Seeker,Active,
+62,Channel 21 News,Active,
+63,Channel 65 News,Active,
+64,Channel 8,Active,
+65,Charlie-27 Ravager Clan,Active,Charlie-27 Warship
+66,Chaste,Defunct,Wall of the Chaste
+67,Cheng Consulting Management,,Cheng Consulting Management Offices
+68,Chicago Police Department,Active,
+69,Chinatown Crew,Defunct,Chinatown Crew Headquarters
+70,Choctaw,Active,
+71,Church of Gibborim,Active,Church of Gibborim Executive Office
+72,CIA,Active,CIA Headquarters
+73,CIA/History Altered by Chronicoms,Active,
+74,Clandestines,Defunct,Aadam's House
+75,Clark County Tribune,Active,
+76,CNB,Active,
+77,CND,Active,
+78,Colon Crime Family,Inactive,Colon's Gym
+79,Computational Services Inc.,Active,Computational Services Inc. Headquarters
+80,Confederacy,Defunct,
+81,Confederated Global Investments,Inactive,
+82,Congolese Army,Active,
+83,Coquelicot,Active,
+84,Cordco,Active,
+85,Council of Godheads,,Golden Temple
+86,Council of Nine,Defunct,"Arena Club, Los Angeles"
+87,Crescent City Pathways,Active,
+88,Crips,Unknown,
+89,Crisis Intervention Resources,Active,
+90,Cross Technologies,Defunct,
+91,CUV,Active,
+92,Cybertek,Active,Cybertek Corporate Headquarters
+93,Daisy Clover,Active,Daisy Clover Milk Factory
+94,DARPA,Active,
+95,DEA,Active,"Arlington, Virginia"
+96,Declan Research,Active,Declan Research Facility
+97,Deke Shaw's Company,Unknown,Deke Shaw's Company's OfficeLighthouse (temporarily)
+98,Department H,Active,
+99,DGSE,Active,"Paris, France"
+100,Diablos,Inactive,Washington Heights
+101,Disciples of Ammit,Unknown,
+102,District of Columbia Support Group,Active,
+103,Dogs of Hell,Unknown,Dogs of Hell's Club (New York)
+104,Domani Architecture,Active,
+105,Donovan and Partners,Active,
+106,Dragon Raiders,,
+107,Drug Identification,Active,
+108,Duncan + Dotter Design,Active,Duncan + Dotter Design Office
+109,Eaglestar,Active,
+110,East Brook,Active,East Brook Building
+111,Eastview Sheriff's Office,Active,
+112,Echidna Capital Management,Inactive,
+113,Edison Electric,Active,
+114,Egyptian Patrol Agency,Active,
+115,Einherjar,Active,Asgard (formerly)New Asgard
+116,Einherjar/Avengers Assassinated,Active,
+117,Einherjar/Party Prince Thor,Active,
+118,El Verdadere,Active,
+119,Enclave,Dissolved,
+120,Ennead Council,,Great Pyramid of Giza
+121,EuroM.I.N.D.,Unknown,
+122,Exolon Monks,Defunct,
+123,F.E.A.S.T.,Active,F.E.A.S.T. Community Center
+124,Fagan Corners Police Department,Active,
+125,FBI,Active,"Washington, D.C."
+126,FBX,Active,
+127,Fifth Street Locos,Defunct,
+128,Fire Department of New York City,Active,
+129,Flag Smashers,Defunct,Flag Smashers Hideout
+130,Folgen Industries,,
+131,Food Connoisseur,Active,
+132,Franklin Chemical,Inactive,
+133,French Foreign Legion,Active,"Aubagne, France"
+134,FXN,Active,
+135,G'rek Raiders,Active,
+136,G.U.A.R.D.,,
+137,Genetic Council,Defunct,Attilan
+138,Geoffrey Wilder Construction Inc.,Active,
+139,Glamorous,Active,
+140,Glenn Industries,Active,
+141,Global Incorporated,Active,Dubai
+142,Global Repatriation Council,Active,
+143,Global USA,Active,
+144,Gluten Free Organic Wraps,,
+145,Gnucci Crime Family,Active,Linello's
+146,Golden Tigers,Active,Golden Tigers' HideoutGolden Tigers' Nightclub
+147,Golden Tribe,Active,
+148,Golden Tribe/Ravager T'Challa,Active,
+149,"Goodman, Kurtzberg & Holliway",Active,
+150,Gorani Insurance,Active,
+151,Gothite Industries,Active,
+152,Greek Mob,Active,
+153,Greenwich Village Ledger,Active,
+154,"Greg Pressfield, ESQ. Attorney at Law",Inactive,"Greg Pressfield, ESQ. Law Office"
+155,Grunhel's Fleet,Defunct,
+156,GSG 9,Active,
+157,GT Agrochemical,Active,
+158,H.A.M.M.E.R.,Unknown,
+159,Hammer Industries,Active,Hammer Industries Headquarters
+160,Hammond Labs,Active,
+161,Hancock Transport,Active,
+162,Hand,Defunct,Midland CircleHand Compound
+163,Heka Priests,,
+164,Hogarth & Associates,Active,Hogarth & Associates Law Office
+165,"Hogarth, Chao & Benowitz",Active,"Hogarth, Chao & Benowitz Office"
+166,Hollywood Records,,
+167,Honolulu Police Department,Active,"Honolulu, Hawaii"
+168,House of Kasius,Active,
+169,House of Kasius/Destroyed Earth,Active,Lighthouse
+170,Hudson Rubbish & Disposal,Active,
+171,Humans First Movement,Active,
+172,HYDRA,Defunct,HYDRA Headquarters (formerly)HYDRA Research Base (formerly)Schoonebeek Oil Field (formerly)HYDRA Preparatory Academy (formerly)
+173,HYDRA/Age of Ultron,Defunct,
+174,HYDRA/Camp Lehigh Time Heist,Active,
+175,HYDRA/Framework,Deleted,Triskelion
+176,HYDRA/History Altered by Chronicoms,Unknown,
+177,HYDRA/HYDRA World,Active,
+178,HYDRA/New York Time Heist,Active,
+179,HYDRA/Super Soldier Peggy Carter,Unknown,
+180,IGH,Defunct,Industrial Garments & Handling Facility (formerly)
+181,Imagis,Active,
+182,Innovator Magazine,Active,
+183,Institute for Infectious Diseases,Active,IFID Headquarters
+184,Intelligencia,Active,
+185,Interpol,Active,"Lyon, France"
+186,Irie Taxi,Active,Irie Taxi Garage
+187,Iron Gang,Defunct,
+188,ISIS,Active,Syria
+189,Isodyne Energy,Dismantled,Isodyne Energy Headquarters
+190,ITPD,Active,
+191,Jabari Tribe,Active,"Gorilla City, Jabari Land, Wakanda"
+192,Jersey City Police Department,Active,
+193,Jigsaw's Crew,Defunct,Valhalla
+194,Joint Counter Terrorist Centre,Active,Joint Counter Terrorist Centre Building
+195,Jurnalul de Lugoj,Active,
+196,Kaxton Industries,Active,
+197,Keeper Demons,,
+198,Keibler's Circus,Active,
+199,KEJH,Active,
+200,KEJT,Active,
+201,Keoki's Cab,Active,
+202,"Kester, Dyer and Rathman LLP",Active,
+203,KGB,Dissolved,
+204,KGB/Age of Ultron,Dissolved,
+205,KHEJ,Active,
+206,Kilgrave Victim Support Group,Active,
+207,Kirschner and Brown,Active,Kirschner and Brown Building
+208,Kitchen Cab,Absorbed into Veles Taxi,
+209,Kitchen Hellions,Active,
+210,Kitchen Irish,Inactive,Burren Club
+211,KIWH,Active,
+212,Knights of Wundagore,Disbanded,
+213,KNKV News,Active,
+214,KNRT,Active,
+215,Korean Church of Asgard,Active,
+216,Korean Mob,Active,
+217,KPFW,Active,
+218,KPGB,Active,
+219,KPVK,Active,
+220,KQJS,Active,
+221,Kree Empire,Active,Hala
+222,Kree Watch,Defunct,Lighthouse
+223,Krugarr Ravager Clan,Active,Krugarr Warship
+224,KRXJ Los Angeles,Active,
+225,KTOZ News,Active,
+226,KTTA,Active,
+227,KVXJ News,Active,
+228,KXBO,Active,
+229,KZOM Los Angeles,Active,
+230,KZXC,Active,
+231,KZYO,Active,
+232,Lady Liberty News,Active,
+233,LAF,Active,
+234,Landman and Zack,Active,Landman and Zack Building
+235,Larkville Police Department,Active,Larkville County Sheriff Station
+236,LDE News,Active,
+237,Leviathan,Active,
+238,Liberty News,Active,
+239,London Express News,Active,
+240,Los Angeles Daily Edge,Active,
+241,Los Angeles Ledger,Active,
+242,Los Angeles Police Department,Active,District 27 West Side Station
+243,Los Angeles Tribune,Active,
+244,Lucky Star Cab Company,Active,
+245,M&R Credit Union,Active,
+246,Macoute,Active,
+247,Maggia,Active,
+248,Mainframe Ravager Clan,Active,Mainframe Warship
+249,Manfredi Crime Family,Active,
+250,Manhattan Telegraph,Active,
+251,Marauders,Defunct,
+252,Maria Stark Foundation,Active,
+253,Marlena Olin's Crew,Defunct,
+254,Masters of the Mystic Arts,Active,"Kamar-Taj, KathmanduNew York SanctumHong Kong SanctumLondon Sanctum"
+255,Masters of the Mystic Arts/Corrupted Doctor Strange,Inactive,"Kamar-Taj, KathmanduNew York SanctumLost Library of Cagliostro"
+256,Masters of the Mystic Arts/Defender Strange,Active,
+257,Masters of the Mystic Arts/Illuminati Assembled,Active,New York Sanctum
+258,Masters of the Mystic Arts/New York Time Heist,Active,New York Sanctum
+259,Masters of the Mystic Arts/Sinister Strange,Defunct,New York Sanctum
+260,Masters of the Mystic Arts/Zombie Outbreak,Unknown,New York Sanctum
+261,Merchant Tribe,,
+262,Metrobank,Active,
+263,Metropolitan Police Department,Active,
+264,Metropolitan Police Service,Active,
+265,Mexican Cartel,Active,
+266,MI6,Active,"London, England"
+267,Midland Circle Financial,Inactive,Midland Circle
+268,Midtown Property Solutions,Active,
+269,Millar & Lumming,Active,
+270,Mining Tribe,,
+271,Momentum Labs,Defunct,Pasadena Momentum Laboratory
+272,Money Hustle Gang,Active,
+273,Mossad,Active,
+274,Mott Security,Active,
+275,NASA,Active,"Washington, D.C."
+276,Nathaniel Malick's Crew,Defunct,Afterlife (formerly)Zephyr One (formerly)Chronicom Destroyer Ship
+277,National Blip Support Hotline,Active,
+278,National Bulletin,Active,
+279,National Police of Colombia,Active,
+280,NATO,Active,"Brussels, Belgium"
+281,Nelson and Murdock,Inactive,Nelson and Murdock Law Office (formerly)
+282,"Nelson, Murdock and Page",Active,Nelson's Meats
+283,Nemo,Active,
+284,New Asgard Tours,,
+285,New Orleans Gazette,Active,
+286,New Orleans Police Department,Active,New Orleans Police Department Station
+287,New York Bell Company,Active,New York Bell Company Office
+288,New York Bulletin,Active,New York Bulletin Building
+289,New York City Department of Correction,Active,
+290,New York City Live Action Role Players,Active,Central Park
+291,New York City Police Department,Active,One Police Plaza
+292,New York City Police Department/History Altered by Chronicoms,Active,
+293,New York Veteran Support Group,Active,St. John's Evangelical Lutheran Church
+294,News 2,Active,
+295,News at 9,Active,
+296,Nick Fury's Crew,Active,Nick Fury's Hideout
+297,Norse Paganists,Inactive,
+298,Nova Corps,Defunct,Nova Corps Headquarters
+299,Nova Empire,Inactive,Xandar
+300,Nova Empire/Age of Ultron,Defunct,Xandar
+301,NRO,Active,"Chantilly, Virginia"
+302,NSA,Active,Fort Meade
+303,NTSB,Active,
+304,NY1,Active,
+305,Oracle Corporation,Active,California
+306,Order of the Crane Mother,Unknown,
+307,Phi Gamma Epsilon,Inactive,Phi Gamma Epsilon House
+308,Pick Axe,Active,
+309,Plākāt.,Active,
+310,Policia Militar del Perú,Active,
+311,Portland Meat Market,,
+312,Presto,Inactive,
+313,PRIDE,Active,Wilder Mansion (formerly)PRIDE Headquarters (formerly)
+314,Priestesses of the Sovereign,Active,
+315,Pro Golfer,Active,
+316,Promenade Society,Active,Promenade Society Building
+317,Proxy Magazine,Active,
+318,Pym Technologies,Inactive,"Pym Technologies Headquarters, San Francisco"
+319,Qeng,Unknown,
+320,Queens Tribune,Active,
+321,Quentin Beck's Crew,Unknown,
+322,Quentin Carnival,,
+323,Quinn Worldwide,Active,Malta
+324,R.A.I.D.,Active,
+325,Rand Enterprises,Active,Rand Enterprises Building
+326,Randy's Salvage,Active,
+327,Ravagers,Active,
+328,Ravagers/Ravager T'Challa,Active,
+329,Rawlins Logistics Corp,Unknown,
+330,Red Daggers,Active,Red Daggers' Hideout
+331,Red Lion National Bank,Inactive,
+332,Redfield Electronics,Active,
+333,Rising Tide,Active,
+334,Rivals,Inactive,
+335,River Tribe,,River Village
+336,River's End Daily,Active,
+337,River's End Police Department,Active,River's End Police Station
+338,RJ News,Active,
+339,Rose Hill Police Department,Active,
+340,Rose Hill Weekly,Active,
+341,Roxxcart,Active,
+342,Roxxon Corporation,Active,
+343,Royal Al Moving,Active,
+344,Russian Armed Forces,Active,"Moscow, Russia"
+345,Russian Mafia,Active,Russian Hideout (formerly)Kazan's Gym
+346,Ryhno's Gang,Inactive,Ryhno's Gang Hideout (formerly)Eden Towers
+347,S.H.I.E.L.D.,Active,"HelicarrierTriskelionS.H.I.E.L.D. HeadquartersZephyr One (formerly)S.H.I.E.L.D. Headquarters (formerly)Playground (destroyed)Iliad (Robert Gonzales' faction, until merge)Lighthouse (formerly)Triskelion (destroyed)Lighthouse (heavily damaged)"
+348,S.H.I.E.L.D./Age of Ultron,Defunct,
+349,S.H.I.E.L.D./Avengers Assassinated,Active,
+350,S.H.I.E.L.D./Camp Lehigh Time Heist,Active,Camp Lehigh
+351,S.H.I.E.L.D./Destroyed Earth,Defunct,
+352,S.H.I.E.L.D./Framework,Deleted,Playground
+353,S.H.I.E.L.D./History Altered by Chronicoms,Active,The Krazy KanoeTriskelion (destroyed)
+354,S.H.I.E.L.D./New York Time Heist,Active,
+355,S.H.I.E.L.D./Party Prince Thor,Active,
+356,S.H.I.E.L.D./Super Soldier Peggy Carter,Active,
+357,S.H.I.E.L.D./Zombie Outbreak,Defunct,
+358,S.W.O.R.D.,Active,S.W.O.R.D. Headquarters
+359,Sakaaran Guards,Active,
+360,Sakaaran Scrappers,Active,
+361,Salem Coven,Disbanded,
+362,Salvation Army,Active,"London, England"
+363,Samson Development,Active,
+364,San Francisco Police Department,Active,
+365,San Francisco Tribune,Active,
+366,Savannah Police Department,Active,
+367,SBN,Active,
+368,Schutzstaffel,Dissolved,Berlin
+369,Schäfer Sicherheitsdienst,,"Schäfer Sicherheitsdienst Building, Stuttgart"
+370,Screen Times,Active,
+371,September Foundation,Active,
+372,Serpent Society,Active,
+373,Sherwin Holdings,,
+374,Silver & Brent,Unknown,
+375,Sleepless City News,Active,
+376,Sloan Limited,Active,
+377,Sojourn Enterprises,Unknown,"Sojourn Enterprises Headquarters, Vladivostok, Russia"
+378,Sokovian Armed Forces,Defunct,
+379,Sokovian Police Department,Unknown,Novi Grad (formerly)
+380,Souls of the Damned,Active,
+381,Soviet Armed Forces,Disbanded,Moscow
+382,Special Operations Executive,Inactive,"London, England"
+383,SportSunday,Active,
+384,Stakar Ravager Clan,Active,Stakar Ogord's Warship
+385,Stark Industries,Active,Stark Industries HeadquartersStark Tower (formerly)
+386,Stark Industries Racing Team,Active,
+387,Stark Industries/Killmonger's War,Active,Stark Industries Headquarters
+388,Stark Industries/New York Time Heist,Active,
+389,Stark Industries/Pipe World,,
+390,Stark Relief Foundation,Active,
+391,Stark Resilient,Active,
+392,Stark-Fujikawa,Active,
+393,StatiCorp,Active,StatiCorp Facility
+394,Staying Awake,Active,
+395,Stokes Crime Family,Inactive,Harlem's Paradise
+396,Strategic Scientific Reserve,Absorbed into S.H.I.E.L.D.,"Strategic Scientific Reserve Headquarters, London (formerly)"
+397,Strategic Scientific Reserve/Super Soldier Peggy Carter,Absorbed into S.H.I.E.L.D.,
+398,Sturmabteilung,Dissolved,"Berlin, Nazi Germany"
+399,Stylers,Inactive,Yardies' Hideout (formerly)Harlem's Paradise (formerly)
+400,Summerville Department Stores,Active,
+401,SVR,Active,SVR Submarine Base (formerly)
+402,Synnergy,Active,Synnergy Laboratories
+403,Ta Lo Armed Forces,Active,"Ancient Village, Ta Lo"
+404,Ten Rings (Organization),Active,Ten Rings Headquarters
+405,Ten Rings (Organization)/Killmonger's War,Active,
+406,Testament Industries,Active,
+407,The Batesville Clarion,Active,
+408,The Boston Guardian,Active,
+409,The Brooklyn Journal,Active,
+410,The Chronicle,Active,
+411,The Colonial Post,Active,
+412,The D.C. Daily Chronicle,Active,
+413,The Daily,Active,
+414,The Daily Bugle,Active,"Daily Bugle Broadcasting Center, New York City"
+415,The Daily Cadet,Defunct,S.H.I.E.L.D. Academy
+416,The Daily Courier,Active,
+417,The Dallas Record,Active,
+418,The Hawaii Chronicle,Active,
+419,The Kitchen Post,Active,
+420,The Knowledge Base,Active,
+421,The Nation's News Source,Active,
+422,The New York Examiner,Active,
+423,The New York News,Active,
+424,The Oregon Examiner,Active,
+425,The Spot,Active,
+426,The Washington Gazette,Active,
+427,The Washington Inquirer,Active,
+428,Three Fates,,
+429,Time Variance Authority,Unknown,Time Variance Authority Office
+430,Tivan Group,Active,"Exitar, Knowhere"
+431,Tivan Group/Ravager T'Challa,Unknown,"Exitar, Knowhere"
+432,TKY,Active,
+433,Toronto Telegraph,Active,
+434,Tracksuit Mafia,Active,Fat Man Auto RepairKB Toys Store (formerly)
+435,Transhumanists,Active,
+436,Transia Corporation,Active,Transia Corporation Building
+437,Tribal Council,,Citadel
+438,True Believers,Active,Lighthouse (formerly)Zephyr One (formerly)
+439,Trust a Bro Moving Company,Active,Oregon
+440,TVT News,Active,
+441,Twin Oaks Shipping Company,,
+442,U-GIN,Active,U-GIN Genetic Research Facility
+443,U.L.T.I.M.A.T.U.M.,Active,
+444,Union Allied Construction,Defunct,
+445,United Nations,Active,United Nations Headquarters
+446,United Nations/Avengers Assassinated,Active,United Nations Headquarters
+447,United States Armed Forces,Active,Pentagon
+448,United States Armed Forces/Age of Ultron,Defunct,
+449,United States Armed Forces/Avengers Assassinated,Active,
+450,United States Armed Forces/Killmonger's War,Active,
+451,United States Congress,Active,"United States Capitol, Washington, D.C."
+452,United States Department of Damage Control,Active,Damage Control Headquarters
+453,United States Department of Defense,Active,Pentagon
+454,United States Department of Homeland Security,Active,"Washington, D.C."
+455,United States Marshals Service,Active,"Arlington, Virginia"
+456,United States Secret Service,Active,"Washington, D.C."
+457,Up Close and Magical,Active,
+458,Uptown Block Kings,Active,
+459,Uptown Investments,Unknown,Uptown Investments Building
+460,VAJA,Active,
+461,Vancorp,Active,
+462,Vanity Fair,Active,
+463,Veles Taxi,Inactive,
+464,View,Active,
+465,Viking Motel Sex Traffic Ring,Inactive,Viking Motel
+466,Vishanti,Unknown,
+467,Vistacorp,Active,Vistacorp Headquarters
+468,VQB News,Active,
+469,VWXTV,Active,
+470,Wai-Go Industries,Active,
+471,Wakandan Design Group,Active,"Mount Bashenga, Wakanda"
+472,Wakandan Royal Guard,Active,"Golden City, Wakanda"
+473,Wappingers Falls Police Department,Active,Wappingers Falls Police Station
+474,War Dogs,Active,
+475,War Dogs/Killmonger's War,Active,
+476,Washington World News,Active,
+477,Watchdogs,Active,Superior's Submarine Base
+478,WBVF,Active,
+479,Wealth & Capital,Active,
+480,Weddings,Active,
+481,Wehrmacht,Defunct,Berlin
+482,Westmeyer-Holt Contracting,Active,
+483,Westview Herald,Active,
+484,Westview Neighborhood Watch,Inactive,
+485,WFON TV,Active,
+486,WHiH World News,Active,
+487,WHJN,Active,
+488,Wild Red Hawks,Active,
+489,Wilder Innovators,,Wilder Innovators Headquarters
+490,Williams Plumbing,Active,
+491,Wired,Active,
+492,Wizard,Active,Wizard Headquarters
+493,WJBP-TV,Active,
+494,WKGU News,Active,
+495,WLGJ,Active,
+496,WNEX New York,Active,
+497,WNJG,Active,
+498,WNKW,Active,
+499,World Security Council,Active,
+500,Wrigley Fire Department,Active,
+501,WRZP,Active,
+502,WYAX,Active,
+503,WZKC,Active,
+504,WZPZ,Active,
+505,WZTM News,Active,
+506,WZVR News,Active,
+507,Wütend Enterprises,,
+508,X-Con Security Consultants,Active,X-Con Security Consultants Office
+509,Xining Airways,Active,
+510,Yakuza,Active,
+511,Yangsi Gonshi,Active,Golden SandsRed Hook Pier
+512,Yardies,Defunct,Crown Heights
+513,Yin-Yang Won Ton Delivery Service,Active,
+514,Yondu Ravager Clan,Defunct,Eclector
+515,Yoshioka Corporation,,
+516,ZCN,Active,
+517,ZOMS,Active,

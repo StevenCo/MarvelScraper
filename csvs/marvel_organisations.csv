@@ -1,0 +1,518 @@
+organisationId,name,locations,status,movie,tvSeries,comic,game,oneShot,affiliation,location
+1,10 News,,Active,['Iron Man'],,['Iron Man: I Am Iron Man!'],,,,
+2,107th Infantry Regiment,United States of America; German-occupied Europe,Disbanded,['Captain America: The First Avenger'],"['Agent Carter (The Iron Ceiling)', 'Agent Carter (What If...?)', 'Agent Carter (What If... Captain Carter Were The First Avenger?)']","['Captain America: First Vengeance', 'Captain America: The First Avenger Adaptation']",,,['United States Army'],"Latham, New York"
+3,4 News,,Active,,,,,,,
+4,5 Albany,"Albany, New York",Active,['The Avengers'],,,,,,
+5,6 New York,"New York City, New York",Active,['The Avengers'],,,,,,
+6,92nd Infantry Regiment,,Defunct,,,['Captain America: First Vengeance'],,,['United States Army'],
+7,A.I.M.,Worldwide,Unknown,['Iron Man 3'],['Agents of S.H.I.E.L.D. (Loki)'],"['Iron Man: The Price of Doing Business', 'Captain America: Civil War Prelude']",['Iron ManIron Man 2Iron Man 3 - The Official Game'],,,
+8,A.R.M.O.R.,Hub (formerly),Unknown,,['Agents of S.H.I.E.L.D. (The Hub)'],,,,,
+9,AccuTech,,Active,['Captain America: The First Avenger'],,,,,['Stark Industries'],California
+10,Action News,New York City,Active,['The Avengers'],,,,,,
+11,Adrian Toomes' Crew,New York City,Defunct,['Spider-Man: Homecoming'],,['Spider-Man: Far From Home Prelude'],,,,
+12,ADS News,,Active,['Captain America: Civil War'],,,,,,
+13,Advanced Threat Containment Unit,Nationwide,Active,,Agents of S.H.I.E.L.D.,,,,"['United States Government', 'S.H.I.E.L.D.', 'HYDRA']",Endotex Labs
+14,Afghan Insurgents,Afghanistan,Unknown,,"['Daredevil (Guilty as Sin)', 'Daredevil (The Punisher)', 'Daredevil (Kandahar)']",,,,,
+15,Afghan National Police,Afghanistan,Active,,"['The Punisher (3 AM)', 'The Punisher (Kandahar)', 'The Punisher (Danger Close)']",,,,,
+16,African American College Alliance,New York City,Active,,['Luke Cage (Soul Brother #1)'],,,,,
+17,Air National Guard,,Active,['Captain America: The Winter Soldier'],,,,,['United States Air Force'],
+18,Albanian Syndicate,"New York City, New YorkJalisco, Mexico",Inactive,,Daredevil,,,,,
+19,Aleta Ravager Clan,Intergalactic,Active,['Guardians of the Galaxy Vol. 2'],,,,,['Ravagers'],Aleta Ogord Warship
+20,Alias Investigations,"New York City, New York",Active,,"['Jessica Jones (Iron Fist)', 'Jessica Jones (The Defenders)']",,,,,Alias Investigations Office
+21,Alien Abductee Anonymous,Los Angeles,Active,,['Runaways (Merry Meet Again)'],,,,,
+22,Almeida Concrete Pumping and Equipment,"New York City, New York",Active,,['The Punisher (3 AM)'],,,,,
+23,American Journal of Experimental Medicine,,Active,,['Runaways (Destiny)'],,,,,
+24,Anvil,"New York City, New York",Disbanded,,The Punisher,,,,,Anvil Headquarters
+25,Architectural Designer,United States of America,Active,,['Jessica Jones (AKA The Sandwich Saved Me)'],,,,,
+26,ARN,New York City,Active,,Jessica Jones,,,,,
+27,Aryan Brotherhood,"New York City, New YorkLos Angeles, California",Active,,"['Agents of S.H.I.E.L.D. (Daredevil)', 'Agents of S.H.I.E.L.D. (The Punisher)']",,,,,
+28,Asano Robotics,,Active,,"['Daredevil (Stick)', 'Daredevil (Kinbaku)', 'Daredevil (Regrets Only)']",,,,"['Roxxon Corporation', 'Hand']",Yakatomi Building
+29,ATF,United States of America,Active,,"['Luke Cage (I Get Physical)', 'Luke Cage (The Punisher)', 'Luke Cage (Resupply)', 'Luke Cage (Front Toward Enemy)']",,,,['United States Department of Justice'],"Washington, D.C."
+30,Atreus Plastics,"New York City, New York",Merged with Glenn Industries,,['Daredevil (Luke Cage)'],,,,['Glenn Industries'],
+31,Attilan Rebel Movement,"Attilan, Moon",,,"['Inhumans (Something Inhuman This Way Comes...)', 'Inhumans (Havoc in the Hidden Land)']",,,,,
+32,Attilan Royal Guard,,Active,,Inhumans,,,,"['Inhuman Royal Family', 'Maximus']","Attilan, Moon"
+33,Australian Threat Unit,Australia,Active,,['Agents of S.H.I.E.L.D. (The Inside Man)'],,,,['Australian Government'],
+34,Avenger Tours,,,,['Ms. Marvel (Generation Why)'],,,,,
+35,Batesville Fire Department,"Batesville, Utah",Active,,['Agents of S.H.I.E.L.D. (Repairs)'],,,,,
+36,Baxter Foundation,New York City,Active,['Doctor Strange in the Multiverse of Madness'],,,,,['Illuminati'],Illuminati Headquarters
+37,Behavior Health Department,,Active,,['Helstrom (Committed)'],,,,,
+38,Berserker Army,,Unknown,,['Agents of S.H.I.E.L.D. (The Well)'],,,,,Asgard
+39,Berserkers,Asgard,Defunct,['Thor: Ragnarok'],['Loki (Glorious Purpose)'],,,,,
+40,Beverly Hills Tribune,Beverly Hills,Active,,['Agents of S.H.I.E.L.D. (Pilot)'],,,,,
+41,Big Apple News,New York City,Active,['Thor: Ragnarok'],,,,,,
+42,Bishop Security,"New York City, New York",Active,,Hawkeye,,,,,Bishop Security Headquarters
+43,Blip Sync,"San Francisco, California",Active,['Shang-Chi and the Legend of the Ten Rings'],,,,,,
+44,Blood,,Active,,Helstrom,,,,,
+45,Border Tribe,,Active,"['Black Panther', 'Avengers: Infinity War', 'Avengers: Endgame', 'Black Panther: Wakanda Forever']","['Ms. Marvel (Generation Why)', 'Ms. Marvel (Wakanda)']","['Black Panther Prelude', 'Avengers: Endgame Prelude']",,,,Border Village
+46,Border Tribe/Ravager T'Challa,Wakanda,Active,,"[""What If...? (What If... T'Challa Became a Star-Lord?)""]",,,,,
+47,Brand Corporation,,Active,,['Agents of S.H.I.E.L.D. (Ragtag)'],,,,['Cybertek'],
+48,British Armed Forces,United Kingdom,Active,"['The Incredible Hulk', 'Captain America: The First Avenger', 'Thor: The Dark World', 'Black Panther', 'Spider-Man: Far From Home']","['Agents of S.H.I.E.L.D. (Agent Carter)', 'Agents of S.H.I.E.L.D. (Ms. Marvel)']","['The Incredible Hulk: The Big Picture', 'Captain America: First Vengeance', 'Thor: Ragnarok Prelude']",,,['United Kingdom'],
+49,British Armed Forces/Super Soldier Peggy Carter,,Active,,['What If...? (What If... Captain Carter Were The First Avenger?)'],,,,,
+50,British Post,,Active,,['What If...? (What If... Killmonger Rescued Tony Stark?)'],,,,,
+51,Brooklyn Comet,New York City,Active,,['Agent Carter (The Iron Ceiling)'],,,,,
+52,Brooklyn Suicide Prevention Center,"New York City, New York",Active,,Daredevil,,,,,
+53,Brooklyn Support Group,"New York City, New York",Active,['Avengers: Endgame'],,,,,,
+54,Brown Jovi,,Active,,"['Ms. Marvel (Crushed)', 'Ms. Marvel (Destined)']",,,,,
+55,Buzzcom,Los Angeles,Active,,"['Runaways (Smoke and Mirrors)', 'Runaways (Cheat The Gallows)']",,,,,
+56,Cadre,,Active,,,['Captain America: Homecoming'],,,,
+57,California (newspaper),Los Angeles,Active,,Runaways,,,,,
+58,California Experience,"Los Angeles, California",Active,,['Agent Carter (Smoke & Mirrors)'],,,,,
+59,Callisto Aerospace,California,Active,,Inhumans,,,,,Callisto Aerospace Control Center
+60,Carbone Crime Family,"New York City, New York",Active,,"['Luke Cage (The Creator)', ""Luke Cage (Can't Front on Me)"", 'Luke Cage (They Reminisce Over You (T.R.O.Y.))', 'Luke Cage (Daredevil)', 'Luke Cage (Revelations)', 'Luke Cage (A New Napkin)']",,,,,Rosalie Carbone's Office
+61,Celeb Seeker,New York City,Active,,"['Jessica Jones (AKA Sole Survivor)', 'Jessica Jones (AKA God Help the Hobo)']",,,,,
+62,Channel 21 News,,Active,['Iron Man 3'],,,,,,
+63,Channel 65 News,,Active,['Iron Man 3'],,,,,,
+64,Channel 8,"New York City, New York",Active,,"['The Falcon and The Winter Soldier (One World, One People)']",,,,,
+65,Charlie-27 Ravager Clan,Intergalactic,Active,['Guardians of the Galaxy Vol. 2'],,,,,['Ravagers'],Charlie-27 Warship
+66,Chaste,"New York City, New York, Phnom Penh, Cambodia",Defunct,,['Daredevil (The Defenders)'],,,,['Order of the Crane Mother'],Wall of the Chaste
+67,Cheng Consulting Management,"New York City, New York",,,Jessica Jones,,,,,Cheng Consulting Management Offices
+68,Chicago Police Department,"Chicago, Illinois",Active,,['Agents of S.H.I.E.L.D. (The End)'],,,,,
+69,Chinatown Crew,"Los Angeles, California",Defunct,,Agents of S.H.I.E.L.D.,,,,,Chinatown Crew Headquarters
+70,Choctaw,LouisianaAlabamaFlorida,Active,,['Cloak & Dagger (Colony Collapse)'],,,,,
+71,Church of Gibborim,"Los Angeles, California",Active,,Runaways,,,,['PRIDE'],Church of Gibborim Executive Office
+72,CIA,Worldwide,Active,"['Iron Man', 'The Incredible Hulk', 'Iron Man 3', 'Captain America: The Winter Soldier', 'Captain America: Civil War', 'Spider-Man: Homecoming', 'Black Panther', 'Black Panther: Wakanda Forever']","['Agents of S.H.I.E.L.D. (Jessica Jones)', 'Agents of S.H.I.E.L.D. (The Punisher)', 'Agents of S.H.I.E.L.D. (Helstrom)', 'Agents of S.H.I.E.L.D. (The Falcon and The Winter Soldier)', 'Agents of S.H.I.E.L.D. (Secret Invasion)']","['The Incredible Hulk: The Big Picture', 'Nick Fury: Spies Like Us', 'Captain America: Civil War Prelude', 'Spider-Man: Homecoming Prelude']",,,"['United States Government', 'Cerberus Squad', 'Joint Counter Terrorist Centre']",CIA Headquarters
+73,CIA/History Altered by Chronicoms,Worldwide,Active,,"['Agents of S.H.I.E.L.D. (Alien Commies from the Future!)', 'Agents of S.H.I.E.L.D. (Out of the Past)']",,,,['United States Government'],
+74,Clandestines,"Noor DimensionJersey City, New Jersey",Defunct,,Ms. Marvel,,,,,Aadam's House
+75,Clark County Tribune,Nevada,Active,,['Agents of S.H.I.E.L.D. (Out of the Past)'],,,,,
+76,CNB,,Active,,"['Agents of S.H.I.E.L.D. (A Wanted (Inhu)man)', 'Agents of S.H.I.E.L.D. (The Laws of Inferno Dynamics)', 'Agents of S.H.I.E.L.D. (BOOM)']",,,,,
+77,CND,New York City,Active,,['What If...? (What If... Doctor Strange Lost His Heart Instead of His Hands?)'],,,,,
+78,Colon Crime Family,"New York City, New York",Inactive,,Luke Cage,,,,,Colon's Gym
+79,Computational Services Inc.,"Westview, New Jersey",Active,,WandaVision,,,,,Computational Services Inc. Headquarters
+80,Confederacy,,Defunct,,Agents of S.H.I.E.L.D.,,,,,
+81,Confederated Global Investments,"New York City, New York",Inactive,,Daredevil,,,,,
+82,Congolese Army,Democratic Republic of the Congo,Active,,,"['Iron Man 2: Public Identity', 'Black Panther Prelude']",,,"['Armed Forces of the Democratic Republic of the Congo', 'Ten Rings']",
+83,Coquelicot,United States of America,Active,,['Jessica Jones (AKA The Sandwich Saved Me)'],,,,,
+84,Cordco,Australia,Active,,,,['Avengers: Damage Control'],,['Stark Industries'],
+85,Council of Godheads,Omnipotence City,,['Thor: Love and Thunder'],,,,,,Golden Temple
+86,Council of Nine,United States of America,Defunct,,['Agents of S.H.I.E.L.D. (Agent Carter)'],,,,,"Arena Club, Los Angeles"
+87,Crescent City Pathways,"New Orleans, Louisiana",Active,,['Cloak & Dagger (Princeton Offense)'],,,,,
+88,Crips,"Los Angeles, California",Unknown,,['Luke Cage (Runaways)'],,,,,
+89,Crisis Intervention Resources,"New York City, New York",Active,,"['Iron Fist (Immortal Emerges from Cave)', 'Iron Fist (Felling Tree with Roots)']",,,,,
+90,Cross Technologies,"San Francisco, California",Defunct,['Ant-Man'],,['Ant-Man and the Wasp Prelude'],,,,
+91,CUV,United States of America,Active,,"['WandaVision (We Interrupt This Program)', 'WandaVision (Previously On)']",,,,,
+92,Cybertek,"ItalyPalo Alto, CaliforniaMiami, FloridaNew Mexico",Active,,['Agents of S.H.I.E.L.D. (Daredevil)'],['Agents of S.H.I.E.L.D.: The Chase'],,,,Cybertek Corporate Headquarters
+93,Daisy Clover,"New York City, New York",Active,,"['Agent Carter (Now is Not the End)', 'Agent Carter (Bridge and Tunnel)']",,,,,Daisy Clover Milk Factory
+94,DARPA,United States of America,Active,,"['Agents of S.H.I.E.L.D. (Laws of Nature)', 'Agents of S.H.I.E.L.D. (Runaways)', 'Agents of S.H.I.E.L.D. (Destiny)']",,,,['United States Department of Defense'],
+95,DEA,United States of America,Active,['Black Panther: Wakanda Forever'],"['Daredevil (The Perfect Game)', 'Daredevil (Iron Fist)', 'Daredevil (Bar the Big Boss)', 'Daredevil (Dragon Plays with Fire)']",['The Incredible Hulk: The Big Picture'],,,"['United States Government', 'United States Department of Justice']","Arlington, Virginia"
+96,Declan Research,"Santa Barbara, CaliforniaOahu, Hawaii",Active,,Inhumans,,,,,Declan Research Facility
+97,Deke Shaw's Company,"Silicon Valley, CaliforniaLake Ontario, New York (temporarily)",Unknown,,Agents of S.H.I.E.L.D.,,,,,Deke Shaw's Company's OfficeLighthouse (temporarily)
+98,Department H,Canada,Active,['Captain America: The Winter Soldier'],['Agents of S.H.I.E.L.D. (End of the Beginning)'],,,,['Canadian Government'],
+99,DGSE,Worldwide,Active,['Captain America: The Winter Soldier'],,,,,,"Paris, France"
+100,Diablos,Harlem,Inactive,,['Luke Cage (Soul Brother #1)'],,,,,Washington Heights
+101,Disciples of Ammit,,Unknown,,Moon Knight,,,,,
+102,District of Columbia Support Group,"Washington, D.C.",Active,['Captain America: The Winter Soldier'],['The Falcon and The Winter Soldier (The Whole World Is Watching)'],,,,,
+103,Dogs of Hell,"Bangkok, ThailandCalgary, AlbertaIstanbul, TurkeyMexico City, MexicoMontréal, QuebecMoscow, RussiaNevadaNew York City, New YorkSeoul, South KoreaTokyo, JapanToronto, Ontario",Unknown,,"['Agents of S.H.I.E.L.D. (Daredevil)', 'Agents of S.H.I.E.L.D. (Iron Fist)', 'Agents of S.H.I.E.L.D. (The Punisher)']",,,,['Hand'],Dogs of Hell's Club (New York)
+104,Domani Architecture,"New York City, New York",Active,,Iron Fist,,,,['Rand Enterprises'],
+105,Donovan and Partners,"New York City, New York",Active,,['Daredevil (Luke Cage)'],,,,,
+106,Dragon Raiders,,,,,['Doctor Strange Prelude'],,,,
+107,Drug Identification,Worldwide,Active,,"[""Jessica Jones (AKA It's Called Whiskey)""]",,,,,
+108,Duncan + Dotter Design,"New York City, New York",Active,,['The Defenders (Worst Behavior)'],,,,,Duncan + Dotter Design Office
+109,Eaglestar,"New York City, New York",Active,,['Agent Carter (Now is Not the End)'],['The Avengers Prelude: Black Widow Strikes'],,,,
+110,East Brook,New York City,Active,,['Jessica Jones (AKA Customer Service is Standing By)'],,,,,East Brook Building
+111,Eastview Sheriff's Office,"Eastview, New Jersey",Active,,"['WandaVision (We Interrupt This Program)', 'WandaVision (The Series Finale)']",,,,,
+112,Echidna Capital Management,Worldwide,Inactive,,['Agents of S.H.I.E.L.D. (The Frenemy of My Enemy)'],,,,['HYDRA'],
+113,Edison Electric,"Jersey City, New Jersey",Active,,"['Ms. Marvel (Generation Why)', 'Ms. Marvel (Crushed)']",,,,,
+114,Egyptian Patrol Agency,Egypt,Active,,['Moon Knight (Gods and Monsters)'],,,,,
+115,Einherjar,Nine Realms,Active,"['Thor', 'Thor: The Dark World', 'Thor: Ragnarok', 'Avengers: Infinity War', 'Avengers: Endgame', 'Thor: Love and Thunder']",Loki,"['Thor Adaptation', 'Thor: The Dark World Prelude', 'Thor: Ragnarok Prelude']",['Thor: The Dark World - The Official Game'],,,Asgard (formerly)New Asgard
+116,Einherjar/Avengers Assassinated,Nine Realms,Active,,"['What If...? (What If... The World Lost Its Mightiest Heroes?)', 'What If...? (What If... The Watcher Broke His Oath?)']",,,,,
+117,Einherjar/Party Prince Thor,Nine Realms,Active,,['What If...? (What If... Thor Were an Only Child?)'],,,,,
+118,El Verdadere,,Active,,['WandaVision (On a Very Special Episode...)'],,,,,
+119,Enclave,"New York City, New York",Dissolved,,,,['The Incredible Hulk'],,,
+120,Ennead Council,"Giza, Egypt",,,"['Moon Knight (The Friendly Type)', 'Moon Knight (Gods and Monsters)']",,,,,Great Pyramid of Giza
+121,EuroM.I.N.D.,Hub (formerly),Unknown,,['Agents of S.H.I.E.L.D. (The Hub)'],,,,,
+122,Exolon Monks,Dark Aster,Defunct,['Guardians of the Galaxy'],,,,,['Ronan the Accuser'],
+123,F.E.A.S.T.,"Chinatown[1], New York City, New York",Active,['Spider-Man: No Way Home'],,,,,,F.E.A.S.T. Community Center
+124,Fagan Corners Police Department,"Fagan Corners, Vermont",Active,,['Daredevil (Karen)'],,,,,
+125,FBI,United States of America,Active,"['Iron Man', 'The Incredible Hulk', 'Iron Man 3', 'Captain America: The Winter Soldier', 'Captain America: Civil War', 'Spider-Man: Homecoming', 'Black Panther', 'Ant-Man and the Wasp', 'Black Panther: Wakanda Forever', 'The Marvels']","['Agents of S.H.I.E.L.D. (Agent Carter)', 'Agents of S.H.I.E.L.D. (Daredevil)', 'Agents of S.H.I.E.L.D. (Jessica Jones)', 'Agents of S.H.I.E.L.D. (Iron Fist)', 'Agents of S.H.I.E.L.D. (The Defenders)', 'Agents of S.H.I.E.L.D. (The Punisher)', 'Agents of S.H.I.E.L.D. (Runaways)', 'Agents of S.H.I.E.L.D. (Cloak & Dagger)', 'Agents of S.H.I.E.L.D. (WandaVision)', 'Agents of S.H.I.E.L.D. (Ms. Marvel)']","['The Incredible Hulk: The Fury Files', 'Spider-Man: Far From Home Prelude']",,['All Hail the King (logo)'],"['United States Government', 'United States Department of Justice']","Washington, D.C."
+126,FBX,,Active,['Iron Man'],,['Iron Man: I Am Iron Man!'],,,,
+127,Fifth Street Locos,"Los Angeles, California",Defunct,,Agents of S.H.I.E.L.D.,,,,,
+128,Fire Department of New York City,"New York City, New York",Active,"['The Avengers', 'Spider-Man: Homecoming', 'Spider-Man: Far From Home', 'Doctor Strange in the Multiverse of Madness']","['Daredevil (Jessica Jones)', 'Daredevil (Luke Cage)', 'Daredevil (Iron Fist)', 'Daredevil (The Defenders)', 'Daredevil (The Punisher)', 'Daredevil (The Falcon and The Winter Soldier)', 'Daredevil (Hawkeye)']",,,,,
+129,Flag Smashers,,Defunct,,The Falcon and The Winter Soldier,,,,,Flag Smashers Hideout
+130,Folgen Industries,,,,['The Defenders (Mean Right Hook)'],,,,,
+131,Food Connoisseur,United States of America,Active,,"[""Jessica Jones (AKA I've Got the Blues)""]",,,,,
+132,Franklin Chemical,"New York City, New York",Inactive,,['Agent Carter (Now is Not the End)'],,,,,
+133,French Foreign Legion,Worldwide,Active,['Captain America: The Winter Soldier'],,,,,['France'],"Aubagne, France"
+134,FXN,New York City,Active,,['Daredevil (One Last Shot)'],,,,,
+135,G'rek Raiders,,Active,,,['Guardians of the Galaxy Prelude'],,,,
+136,G.U.A.R.D.,,,,,,,['Agent Carter'],,
+137,Genetic Council,,Defunct,,Inhumans,,,,['Inhuman Royal Family'],Attilan
+138,Geoffrey Wilder Construction Inc.,"Los Angeles, California",Active,,Runaways,,,,['PRIDE'],
+139,Glamorous,,Active,,"['WandaVision (Filmed Before a Live Studio Audience)', ""WandaVision (Don't Touch That Dial)"", 'WandaVision (Now in Color)']",,,,,
+140,Glenn Industries,"New York City, New York",Active,,Luke Cage,,,,,
+141,Global Incorporated,,Active,,,['The Avengers: The Avengers Initiative'],,,,Dubai
+142,Global Repatriation Council,Worldwide,Active,['Eternals'],['The Falcon and The Winter Soldier (Moon Knight)'],,,,,
+143,Global USA,,Active,,['Agents of S.H.I.E.L.D. (The Writing on the Wall)'],,,,,
+144,Gluten Free Organic Wraps,"Brooklyn, New York City, New York",,,,['Captain America: Homecoming'],,,,
+145,Gnucci Crime Family,"New York City, New York",Active,,"['The Punisher (3 AM)', 'The Punisher (Two Dead Men)']",,,,,Linello's
+146,Golden Tigers,"New York City, New York",Active,,['Daredevil (Iron Fist)'],,,,,Golden Tigers' HideoutGolden Tigers' Nightclub
+147,Golden Tribe,,Active,"['Captain America: Civil War', 'Black Panther', 'Avengers: Infinity War', 'Avengers: Endgame', 'Black Panther: Wakanda Forever']",What If...?,"['Spider-Man: Homecoming Prelude', 'Black Panther Prelude', 'Avengers: Infinity War Prelude', 'Avengers: Endgame Prelude']",['Avengers: Damage Control'],,,
+148,Golden Tribe/Ravager T'Challa,Wakanda,Active,,"[""What If...? (What If... T'Challa Became a Star-Lord?)""]",,,,,
+149,"Goodman, Kurtzberg & Holliway","New York City, New YorkLos Angeles, California",Active,,"['Agent Carter (Bridge and Tunnel)', 'Agent Carter (She-Hulk: Attorney at Law)']",,['The Incredible Hulk'],,,
+150,Gorani Insurance,Germany,Active,,,['Iron Man 2: Fist of Iron'],,,,
+151,Gothite Industries,,Active,,['Agents of S.H.I.E.L.D. (Bouncing Back)'],,,,['HYDRA'],
+152,Greek Mob,"New York City, New YorkNewark, New Jersey",Active,,"['The Punisher (Resupply)', 'The Punisher (Cold Steel)', 'The Punisher (Virtue of the Vicious)']",,,,,
+153,Greenwich Village Ledger,New York City,Active,,['Agent Carter (The Iron Ceiling)'],,,,,
+154,"Greg Pressfield, ESQ. Attorney at Law","New Orleans, Louisiana",Inactive,,"['Cloak & Dagger (Suicide Sprints)', 'Cloak & Dagger (Stained Glass)', 'Cloak & Dagger (Call/Response)']",,,,,"Greg Pressfield, ESQ. Law Office"
+155,Grunhel's Fleet,Asgard,Defunct,['Avengers: Age of Ultron'],,,,,,
+156,GSG 9,Germany,Active,['Captain America: Civil War'],,,,,,
+157,GT Agrochemical,MichiganNew York,Active,,['Agents of S.H.I.E.L.D. (Jessica Jones)'],,,,,
+158,H.A.M.M.E.R.,Hub (formerly),Unknown,,['Agents of S.H.I.E.L.D. (The Hub)'],,,,,
+159,Hammer Industries,"New York City, New York",Active,"['Iron Man 2', 'Avengers: Age of Ultron', 'Black Widow']",Luke Cage,"['Iron Man 2: Public Identity', ""The Avengers Prelude: Fury's Big Week"", 'The Avengers Prelude: Black Widow Strikes', 'Iron Man 2 Adaptation', 'Iron Man 3 Prelude']",['Iron Man 2 (mentioned)'],,['United States Armed Forces'],Hammer Industries Headquarters
+160,Hammond Labs,"New York City, New York",Active,,"[""Jessica Jones (AKA You're a Winner!)"", 'Jessica Jones (AKA 1,000 Cuts)']",,,,,
+161,Hancock Transport,Worldwide,Active,,"['Daredevil (Daredevil)', 'Daredevil (Iron Fist)', 'Daredevil (Target: Iron Fist)', 'Daredevil (A Duel of Iron)']",,,,,
+162,Hand,Worldwide,Defunct,,"['Daredevil (Luke Cage)', 'Daredevil (Iron Fist)', 'Daredevil (The Defenders)']",,,,,Midland CircleHand Compound
+163,Heka Priests,,,,['Moon Knight (The Tomb)'],,,,,
+164,Hogarth & Associates,"New York City, New York",Active,,Jessica Jones,,,,,Hogarth & Associates Law Office
+165,"Hogarth, Chao & Benowitz","New York City, New York",Active,,"['Daredevil (Jessica Jones)', 'Daredevil (Luke Cage)', 'Daredevil (Iron Fist)', 'Daredevil (The Defenders)']",,,,,"Hogarth, Chao & Benowitz Office"
+166,Hollywood Records,,,,Jessica Jones,,,,,
+167,Honolulu Police Department,Oahu,Active,,Inhumans,,,,['United States Government'],"Honolulu, Hawaii"
+168,House of Kasius,,Active,,Agents of S.H.I.E.L.D.,,,,['Confederacy'],
+169,House of Kasius/Destroyed Earth,,Active,,Agents of S.H.I.E.L.D.,,,,['Confederacy'],Lighthouse
+170,Hudson Rubbish & Disposal,New York CityLos Angeles,Active,,"['Daredevil (Luke Cage)', 'Daredevil (Iron Fist)', 'Daredevil (Runaways)']",,,,,
+171,Humans First Movement,"Washington, D.C.",Active,,"['Agents of S.H.I.E.L.D. (Lockup)', 'Agents of S.H.I.E.L.D. (BOOM)']",,,,,
+172,HYDRA,Worldwide,Defunct,"['Captain America: The First Avenger', 'The Avengers', 'Captain America: The Winter Soldier', 'Avengers: Age of Ultron', 'Ant-Man', 'Captain America: Civil War', 'Spider-Man: Homecoming', 'Ant-Man and the Wasp', 'Avengers: Endgame', 'Spider-Man: Far From Home', 'Black Widow', 'Doctor Strange in the Multiverse of Madness']","['Agents of S.H.I.E.L.D. (Agent Carter)', 'Agents of S.H.I.E.L.D. (WandaVision)', 'Agents of S.H.I.E.L.D. (The Falcon and The Winter Soldier)', 'Agents of S.H.I.E.L.D. (Loki)']","['Captain America: First Vengeance', 'Captain America: The First Avenger Adaptation', 'Captain America & Thor: Avengers!', ""The Avengers Prelude: Fury's Big Week"", 'The Avengers: The Avengers Initiative', 'The Avengers Adaptation', 'Avengers: Operation HYDRA', ""Avengers: Age of Ultron Prelude - This Scepter'd Isle"", 'Ant-Man Prelude', 'Captain America: Civil War Prelude', 'Captain America: Road to War', 'Captain America: Civil War Prelude Infinite Comic', 'Spider-Man: Homecoming Prelude', 'Avengers: Infinity War Prelude', 'Ant-Man and the Wasp Prelude']",['Captain America: Super Soldier'],,"['Schutzstaffel', 'S.H.I.E.L.D.', 'STRIKE', 'United States Congress', 'Soviet Armed Forces', 'Russian Armed Forces', 'United States Air Force', 'NASA', 'Confederacy']",HYDRA Headquarters (formerly)HYDRA Research Base (formerly)Schoonebeek Oil Field (formerly)HYDRA Preparatory Academy (formerly)
+173,HYDRA/Age of Ultron,,Defunct,,"['What If...? (What If... Ultron Won?)', 'What If...? (What If... The Watcher Broke His Oath?)']",,,,,
+174,HYDRA/Camp Lehigh Time Heist,,Active,['Avengers: Endgame'],,,,,,
+175,HYDRA/Framework,Worldwide,Deleted,,Agents of S.H.I.E.L.D.,,,,,Triskelion
+176,HYDRA/History Altered by Chronicoms,,Unknown,,Agents of S.H.I.E.L.D.,,,,"['S.H.I.E.L.D.', 'Chronicom Hunters']",
+177,HYDRA/HYDRA World,,Active,['Doctor Strange in the Multiverse of Madness'],,,,,,
+178,HYDRA/New York Time Heist,,Active,['Avengers: Endgame'],['Loki (Glorious Purpose)'],,,,,
+179,HYDRA/Super Soldier Peggy Carter,,Unknown,,['What If...? (What If... Captain Carter Were The First Avenger?)'],,,,,
+180,IGH,United States of America (formerly),Defunct,,Jessica Jones,,,,,Industrial Garments & Handling Facility (formerly)
+181,Imagis,United States of America,Active,,['Jessica Jones (AKA The Sandwich Saved Me)'],,,,,
+182,Innovator Magazine,,Active,,Runaways,,,,,
+183,Institute for Infectious Diseases,"Lagos, Nigeria",Active,['Captain America: Civil War'],,,,,,IFID Headquarters
+184,Intelligencia,,Active,['Avengers: Age of Ultron'],,,,,,
+185,Interpol,Worldwide,Active,"['The Incredible Hulk', 'Captain America: The Winter Soldier', 'Spider-Man: No Way Home']","['Agents of S.H.I.E.L.D. (Iron Fist)', 'Agents of S.H.I.E.L.D. (Runaways)', 'Agents of S.H.I.E.L.D. (The Falcon and The Winter Soldier)', 'Agents of S.H.I.E.L.D. (Moon Knight)']",,['Iron Man 3 - The Official Game (mentioned)'],['All Hail the King (logo)'],,"Lyon, France"
+186,Irie Taxi,"New York City, New York",Active,,"['Luke Cage (The Basement)', 'Luke Cage (On and On)']",,,,,Irie Taxi Garage
+187,Iron Gang,,Defunct,['Shang-Chi and the Legend of the Ten Rings'],,,,,,
+188,ISIS,,Active,,"['Agents of S.H.I.E.L.D. (Laws of Nature)', 'Agents of S.H.I.E.L.D. (Luke Cage)', 'Agents of S.H.I.E.L.D. (I Get Physical)']","['Avengers: Infinity War Prelude', 'Captain Marvel Prelude']",,,,Syria
+189,Isodyne Energy,,Dismantled,,['Agents of S.H.I.E.L.D. (Agent Carter)'],,,,['Roxxon Corporation'],Isodyne Energy Headquarters
+190,ITPD,,Active,['Captain America: Civil War'],,,,,,
+191,Jabari Tribe,,Active,"['Black Panther', 'Avengers: Infinity War', 'Avengers: Endgame', 'Black Panther: Wakanda Forever']",,['Avengers: Endgame Prelude'],,,,"Gorilla City, Jabari Land, Wakanda"
+192,Jersey City Police Department,Jersey City,Active,,Ms. Marvel,,,,,
+193,Jigsaw's Crew,"New York City, New York",Defunct,,The Punisher,,,,,Valhalla
+194,Joint Counter Terrorist Centre,Europe,Active,['Captain America: Civil War'],,['Spider-Man: Homecoming Prelude'],,,"['CIA', 'GSG 9']",Joint Counter Terrorist Centre Building
+195,Jurnalul de Lugoj,Lugoj,Active,['Captain America: Civil War'],,,,,,
+196,Kaxton Industries,,Active,,"['Daredevil (The Path of the Righteous)', 'Daredevil (Aftermath)', 'Daredevil (Jessica Jones)', ""Daredevil (AKA Ain't We Got Fun)""]",,,,,
+197,Keeper Demons,,,,Helstrom,,,,,
+198,Keibler's Circus,"New York City, New York",Active,,['Jessica Jones (AKA Sin Bin)'],,,,,
+199,KEJH,Los Angeles,Active,"['Agents of S.H.I.E.L.D.', 'Pilot', 'The Well', 'The Laws of Inferno Dynamics']",,,,,,
+200,KEJT,,Active,['Ant-Man and the Wasp'],,,,,,
+201,Keoki's Cab,"Oahu, Hawaii",Active,,"['Inhumans (Those Who Would Destroy Us)', 'Inhumans (Divide -- And Conquer)']",,,,,
+202,"Kester, Dyer and Rathman LLP","Los Angeles, California",Active,,['Agents of S.H.I.E.L.D. (The Magical Place)'],,,,,
+203,KGB,Soviet Union,Dissolved,"['Captain America: The Winter Soldier', 'Black Widow']",Agents of S.H.I.E.L.D.,"['Iron Man 2: Black Widow: Agent of S.H.I.E.L.D.', 'Avengers: Infinity War Prelude', 'Black Widow Prelude']",,['All Hail the King (mentioned)'],,
+204,KGB/Age of Ultron,Soviet Union,Dissolved,,['What If...? (What If... Ultron Won?)'],,,,,
+205,KHEJ,,Active,['Iron Man'],,,,,,
+206,Kilgrave Victim Support Group,,Active,,Jessica Jones,,,,,
+207,Kirschner and Brown,"New York City, New York",Active,,"['Daredevil (Rabbit in a Snowstorm)', 'Daredevil (The Punisher)', 'Daredevil (Scar Tissue)']",,,,,Kirschner and Brown Building
+208,Kitchen Cab,,Absorbed into Veles Taxi,,['Daredevil (In the Blood)'],,,,,
+209,Kitchen Hellions,"New York City, New York",Active,,"['Daredevil (Into the Ring)', 'Daredevil (Cut Man)']",,,,,
+210,Kitchen Irish,"New York City, New York",Inactive,,['Daredevil (The Punisher)'],,,,,Burren Club
+211,KIWH,Los Angeles,Active,,['Runaways (Doomsday)'],,,,,
+212,Knights of Wundagore,Darkhold Castle,Disbanded,['Doctor Strange in the Multiverse of Madness'],,,,,['Chthon'],
+213,KNKV News,,Active,['Iron Man'],,['Iron Man 2: Public Identity'],,,,
+214,KNRT,,Active,['Ant-Man and the Wasp'],,,,,,
+215,Korean Church of Asgard,"New York City, New York",Active,['Spider-Man: Homecoming'],,,,,,
+216,Korean Mob,"New York City, New York",Active,,Luke Cage,,,,,
+217,KPFW,,Active,['Iron Man'],,,,,,
+218,KPGB,,Active,['Iron Man'],,,,,,
+219,KPVK,,Active,['Ant-Man and the Wasp'],,,,,,
+220,KQJS,,Active,,['Agents of S.H.I.E.L.D. (Laws of Nature)'],,,,,
+221,Kree Empire,,Active,"['Guardians of the Galaxy', 'Guardians of the Galaxy Vol. 2', 'Captain Marvel']",['Agents of S.H.I.E.L.D. (Who You Really Are)'],,,,,Hala
+222,Kree Watch,,Defunct,,Agents of S.H.I.E.L.D.,,,,,Lighthouse
+223,Krugarr Ravager Clan,Intergalactic,Active,,,,,,,Krugarr Warship
+224,KRXJ Los Angeles,Los Angeles,Active,['Iron Man 3'],,,,,,
+225,KTOZ News,Los Angeles,Active,,"['Runaways (Gimmie Shelter)', 'Runaways (Smoke and Mirrors)', 'Runaways (Rite of Thunder)']",,,,,
+226,KTTA,New York City,Active,,"['Daredevil (Reunion)', 'Daredevil (A New Napkin)']",,,,,
+227,KVXJ News,Los Angeles,Active,,"['Runaways (Gimmie Shelter)', 'Runaways (Smoke and Mirrors)']",,,,,
+228,KXBO,,Active,['Ant-Man and the Wasp'],,,,,,
+229,KZOM Los Angeles,Los Angeles,Active,,"['Agents of S.H.I.E.L.D. (Pilot)', 'Agents of S.H.I.E.L.D. (The Laws of Inferno Dynamics)']",,,,,
+230,KZXC,Los Angeles,Active,,['Runaways (Smoke and Mirrors)'],,,,,
+231,KZYO,,Active,['Ant-Man and the Wasp'],,,,,,
+232,Lady Liberty News,New York City,Active,['Thor: Ragnarok'],,,,,,
+233,LAF,Worldwide,Active,,['The Falcon and The Winter Soldier (New World Order)'],,,,,
+234,Landman and Zack,"New York City, New York",Active,,['Daredevil (Iron Fist)'],,,,,Landman and Zack Building
+235,Larkville Police Department,"Larkville, Ohio",Active,,"['The Punisher (Fight or Flight)', 'The Punisher (Trouble the Water)']",,,,,Larkville County Sheriff Station
+236,LDE News,,Active,['Captain America: Civil War'],,,,,,
+237,Leviathan,Soviet UnionUnited States of America,Active,['Avengers: Age of Ultron'],Agent Carter,['Black Widow Prelude'],,,,
+238,Liberty News,,Active,,['WandaVision (On a Very Special Episode...)'],,,,,
+239,London Express News,London,Active,['Iron Man 2'],,,,,,
+240,Los Angeles Daily Edge,Los Angeles,Active,,"['Agents of S.H.I.E.L.D. (Pilot)', 'Agents of S.H.I.E.L.D. (Meet the New Boss)']",,,,,
+241,Los Angeles Ledger,Los Angeles,Active,,['Agents of S.H.I.E.L.D. (Pilot)'],,,,,
+242,Los Angeles Police Department,"Los Angeles, California",Active,['Captain Marvel'],"['Agents of S.H.I.E.L.D. (Agent Carter)', 'Agents of S.H.I.E.L.D. (Runaways)']",,,,['PRIDE'],District 27 West Side Station
+243,Los Angeles Tribune,Los Angeles,Active,,"['Agents of S.H.I.E.L.D. (Ascension)', 'Agents of S.H.I.E.L.D. (Broken Promises)', 'Agents of S.H.I.E.L.D. (Orientation Part Two)', 'Agents of S.H.I.E.L.D. (Framework)', 'Agents of S.H.I.E.L.D. (Agent Carter)', 'Agents of S.H.I.E.L.D. (Better Angels)']",,,,,
+244,Lucky Star Cab Company,"New York City, New York",Active,['Captain America: The First Avenger'],['Agent Carter (The Falcon and The Winter Soldier)'],,,,,
+245,M&R Credit Union,"New York City, New York",Active,,['Daredevil (Cut Man)'],,,,,
+246,Macoute,"New York City, New York",Active,,Luke Cage,,,,,
+247,Maggia,United States of America,Active,,['Agent Carter (Daredevil)'],['Iron Man: The Price of Doing Business'],['Iron Man'],,['Manfredi Crime Family'],
+248,Mainframe Ravager Clan,Intergalactic,Active,['Guardians of the Galaxy Vol. 2'],,,,,['Ravagers'],Mainframe Warship
+249,Manfredi Crime Family,"Los Angeles, CaliforniaNew York City, New York",Active,"['Spider-Man: Far From Home', 'deleted scene']",Agent Carter,,,"[""Peter's To-Do List""]","['Maggia', '[1]']",
+250,Manhattan Telegraph,New York City,Active,['Captain America: The First Avenger'],,,,,,
+251,Marauders,,Defunct,['Thor: The Dark World'],['Loki (Glorious Purpose)'],['Thor: The Dark World Prelude'],['Thor: The Dark World - The Official Game'],,,
+252,Maria Stark Foundation,,Active,,,['The Avengers: The Avengers Initiative'],,,['Stark Industries'],
+253,Marlena Olin's Crew,United States of America,Defunct,,"['The Punisher (Roadhouse Blues)', 'The Punisher (Fight or Flight)', 'The Punisher (Trouble the Water)']",,,,,
+254,Masters of the Mystic Arts,,Active,"['Doctor Strange', 'Thor: Ragnarok', 'Avengers: Infinity War', 'Avengers: Endgame', 'Shang-Chi and the Legend of the Ten Rings', 'Spider-Man: No Way Home', 'Doctor Strange in the Multiverse of Madness']",['The Falcon and The Winter Soldier (She-Hulk: Attorney at Law)'],"['Doctor Strange Prelude', 'Doctor Strange Prelude - The Zealot', 'Doctor Strange: Mystic Apprentice', 'Avengers: Infinity War Prelude', 'Avengers: Endgame Prelude', 'Eternals: The 500 Year War']",['Avengers: Damage Control'],,,"Kamar-Taj, KathmanduNew York SanctumHong Kong SanctumLondon Sanctum"
+255,Masters of the Mystic Arts/Corrupted Doctor Strange,,Inactive,,['What If...? (What If... Doctor Strange Lost His Heart Instead of His Hands?)'],,,,,"Kamar-Taj, KathmanduNew York SanctumLost Library of Cagliostro"
+256,Masters of the Mystic Arts/Defender Strange,,Active,['Doctor Strange in the Multiverse of Madness'],,,,,,
+257,Masters of the Mystic Arts/Illuminati Assembled,,Active,['Doctor Strange in the Multiverse of Madness'],,,,,,New York Sanctum
+258,Masters of the Mystic Arts/New York Time Heist,,Active,['Avengers: Endgame'],,,,,,New York Sanctum
+259,Masters of the Mystic Arts/Sinister Strange,,Defunct,['Doctor Strange in the Multiverse of Madness'],,,,,,New York Sanctum
+260,Masters of the Mystic Arts/Zombie Outbreak,,Unknown,,['What If...? (What If... Zombies!?)'],,,,,New York Sanctum
+261,Merchant Tribe,,,"['Black Panther', 'Black Panther: Wakanda Forever']",,,,,,
+262,Metrobank,,Active,,['Agents of S.H.I.E.L.D. (Ragtag)'],,,,['Cybertek'],
+263,Metropolitan Police Department,"Washington, D.C.",Active,"['Captain America: The Winter Soldier', 'Spider-Man: Homecoming']",['Agents of S.H.I.E.L.D. (Among Us Hide...)'],"['Captain America: Civil War Prelude', 'Spider-Man: Far From Home Prelude']",,,,
+264,Metropolitan Police Service,"London, England",Active,"['Thor: The Dark World', 'Eternals']",Moon Knight,['Thor: Ragnarok Prelude'],,,,
+265,Mexican Cartel,"Juárez, MexicoNew York City, New York",Active,['Avengers: Endgame'],"['Daredevil (Luke Cage)', 'Daredevil (The Punisher)']",,,,,
+266,MI6,United Kingdom,Active,"['Captain America: The First Avenger', 'Captain America: Civil War', 'Ant-Man and the Wasp']","['Agents of S.H.I.E.L.D. (Eye-Spy)', 'Agents of S.H.I.E.L.D. (Laws of Nature)', 'Agents of S.H.I.E.L.D. (Moon Knight)', 'Agents of S.H.I.E.L.D. (Summon the Suit)']",['Captain America: The First Avenger Adaptation'],['Captain America: The Winter Soldier - The Official Game (mentioned)'],,,"London, England"
+267,Midland Circle Financial,"New York City, New York",Inactive,,['Iron Fist (The Defenders)'],,,,['Hand'],Midland Circle
+268,Midtown Property Solutions,"New York City, New York",Active,,['Daredevil (Into the Ring)'],,,,,
+269,Millar & Lumming,,Active,,['Daredevil (No Good Deed)'],,,,,
+270,Mining Tribe,,,['Black Panther'],,,,,,
+271,Momentum Labs,"New York City, New YorkHouston, TexasPasadena, California",Defunct,,Agents of S.H.I.E.L.D.,,,,,Pasadena Momentum Laboratory
+272,Money Hustle Gang,"New Orleans, Louisiana",Active,,"['Cloak & Dagger (Restless Energy)', 'Cloak & Dagger (White Lines)', 'Cloak & Dagger (Blue Note)']",,,,,
+273,Mossad,,Active,['The Incredible Hulk'],"['Agents of S.H.I.E.L.D. (Many Heads, One Tale)']",,,,,
+274,Mott Security,"New York City, New York",Active,,['Iron Fist (The Fury of Iron Fist)'],,,,['Yangsi Gonshi'],
+275,NASA,,Active,"['The Avengers', 'Guardians of the Galaxy', 'Spider-Man: Homecoming', 'Captain Marvel']","['Agents of S.H.I.E.L.D. (Inhumans)', 'Agents of S.H.I.E.L.D. (Runaways)']",,,,"['Project P.E.G.A.S.U.S.', 'Project Distant Star Return', 'Project Valhalla']","Washington, D.C."
+276,Nathaniel Malick's Crew,,Defunct,,Agents of S.H.I.E.L.D.,,,,['Chronicoms'],Afterlife (formerly)Zephyr One (formerly)Chronicom Destroyer Ship
+277,National Blip Support Hotline,United States of America,Active,['Shang-Chi and the Legend of the Ten Rings'],,,,,,
+278,National Bulletin,,Active,,Runaways,,,,,
+279,National Police of Colombia,Colombia*Bogotá,Active,,"['Agents of S.H.I.E.L.D. (Bouncing Back)', 'Agents of S.H.I.E.L.D. (The Inside Man)']",,,,,
+280,NATO,,Active,['Avengers: Age of Ultron'],['Agents of S.H.I.E.L.D. (The Only Light in the Darkness)'],,,,,"Brussels, Belgium"
+281,Nelson and Murdock,"New York City, New York",Inactive,,"['Daredevil (The Defenders)', 'Daredevil (The Punisher)']",,['The Incredible Hulk'],,,Nelson and Murdock Law Office (formerly)
+282,"Nelson, Murdock and Page","New York City, New York",Active,,"['Daredevil (One Last Shot)', 'Daredevil (A New Napkin)', 'Daredevil (The Punisher)', 'Daredevil (The Abyss)']",,,,,Nelson's Meats
+283,Nemo,"Los Angeles, California",Active,,Runaways,,,,['PRIDE'],
+284,New Asgard Tours,,,['Thor: Love and Thunder'],,,,,,
+285,New Orleans Gazette,"New Orleans, Louisiana",Active,,"['Cloak & Dagger (Colony Collapse)', 'Cloak & Dagger (Helstrom)', ""Cloak & Dagger (Mother's Little Helpers)"", 'Cloak & Dagger (The One Who Got Away)']",,,,,
+286,New Orleans Police Department,"New Orleans, Louisiana",Active,,['Cloak & Dagger (Helstrom)'],,,,,New Orleans Police Department Station
+287,New York Bell Company,"New York City, New York",Active,,"['Agent Carter (Now is Not the End)', 'Agent Carter (Bridge and Tunnel)', 'Agent Carter (SNAFU)']",,,,['Strategic Scientific Reserve'],New York Bell Company Office
+288,New York Bulletin,,Active,,"['Agents of S.H.I.E.L.D. (Agent Carter)', 'Agents of S.H.I.E.L.D. (Daredevil)', 'Agents of S.H.I.E.L.D. (Jessica Jones)', 'Agents of S.H.I.E.L.D. (Luke Cage)', 'Agents of S.H.I.E.L.D. (Iron Fist)', 'Agents of S.H.I.E.L.D. (The Defenders)', 'Agents of S.H.I.E.L.D. (The Punisher)', 'Agents of S.H.I.E.L.D. (Cloak & Dagger)']",,,,,New York Bulletin Building
+289,New York City Department of Correction,"New York City, New York",Active,,"['Daredevil (Jessica Jones)', 'Daredevil (Luke Cage)', 'Daredevil (The Punisher)']",,,,,
+290,New York City Live Action Role Players,"New York City, New York",Active,,"['Hawkeye (Hide and Seek)', 'Hawkeye (Partners, Am I Right?)', 'Hawkeye (So This Is Christmas?)']",,,,,Central Park
+291,New York City Police Department,"New York City, New York",Active,"['The Incredible Hulk', 'Iron Man 2', 'The Avengers', 'Avengers: Age of Ultron', 'Spider-Man: Homecoming', 'Avengers: Infinity War', 'Spider-Man: Far From Home', 'deleted scene', 'Spider-Man: No Way Home', 'Doctor Strange in the Multiverse of Madness']","['Agents of S.H.I.E.L.D. (Agent Carter)', 'Agents of S.H.I.E.L.D. (Daredevil)', 'Agents of S.H.I.E.L.D. (Jessica Jones)', 'Agents of S.H.I.E.L.D. (Luke Cage)', 'Agents of S.H.I.E.L.D. (Iron Fist)', 'Agents of S.H.I.E.L.D. (The Defenders)', 'Agents of S.H.I.E.L.D. (The Punisher)', 'Agents of S.H.I.E.L.D. (Cloak & Dagger)', 'Agents of S.H.I.E.L.D. (The Falcon and The Winter Soldier)', 'Agents of S.H.I.E.L.D. (Hawkeye)']","[""The Avengers Prelude: Fury's Big Week"", 'Iron Man 2 Adaptation', 'Jessica Jones', 'Spider-Man: Homecoming: School of Shock', 'Thor: Ragnarok Prelude', 'Spider-Man: Far From Home Prelude']",['Spider-Man: Homecoming - Virtual Reality Experience'],"[""Peter's To-Do List""]",,One Police Plaza
+292,New York City Police Department/History Altered by Chronicoms,"New York City, New York",Active,,"['Agents of S.H.I.E.L.D. (The New Deal)', 'Agents of S.H.I.E.L.D. (Know Your Onions)']",,,,,
+293,New York Veteran Support Group,"New York City, New York",Active,,The Punisher,,,,,St. John's Evangelical Lutheran Church
+294,News 2,New York City,Active,['The Avengers'],,,,,,
+295,News at 9,Los Angeles,Active,,['Runaways (Gimmie Shelter)'],,,,,
+296,Nick Fury's Crew,Worldwide/Mobile,Active,"['Avengers: Age of Ultron', 'Avengers: Infinity War', 'Spider-Man: Far From Home', 'The Marvels']",Secret Invasion,['Captain Marvel Prelude'],,,,Nick Fury's Hideout
+297,Norse Paganists,"Oslo, Norway",Inactive,,['Agents of S.H.I.E.L.D. (The Well)'],,,,,
+298,Nova Corps,Xandar,Defunct,"['Guardians of the Galaxy', 'Guardians of the Galaxy Vol. 2', 'Avengers: Infinity War']",,"['Guardians of the Galaxy Prelude', 'Guardians of the Galaxy Vol. 2 Prelude']",,,['Nova Empire'],Nova Corps Headquarters
+299,Nova Empire,,Inactive,['Guardians of the Galaxy'],,,,,,Xandar
+300,Nova Empire/Age of Ultron,,Defunct,,['What If...? (What If... Ultron Won?)'],,,,,Xandar
+301,NRO,United States of America,Active,,['Agents of S.H.I.E.L.D. (Nothing Personal)'],,,,['United States Department of Defense'],"Chantilly, Virginia"
+302,NSA,United States of America,Active,['Spider-Man: Homecoming'],"['Agents of S.H.I.E.L.D. (Daredevil)', 'Agents of S.H.I.E.L.D. (Jessica Jones)', 'Agents of S.H.I.E.L.D. (Inhumans)', 'Agents of S.H.I.E.L.D. (The Punisher)']",,,,['United States Government'],Fort Meade
+303,NTSB,United States of America,Active,['Captain America: The Winter Soldier'],,,,,['United States Government'],
+304,NY1,"New York City, New York",Active,"['The Avengers', 'Iron Man 3', 'Doctor Strange', 'Spider-Man: Homecoming', 'Spider-Man: Far From Home', 'Spider-Man: No Way Home']","['Daredevil (Jessica Jones)', 'Daredevil (The Defenders)', 'Daredevil (The Punisher)', 'Daredevil (WandaVision)', 'Daredevil (Hawkeye)']",['Spider-Man: Far From Home Prelude'],,['All Hail the King'],,
+305,Oracle Corporation,United States of America,Active,"['Iron Man 2', 'The Avengers', 'Iron Man 3']",,['Iron Man 2 Adaptation'],,,,California
+306,Order of the Crane Mother,K'un-Lun,Unknown,,['Iron Fist (The Defenders)'],,,,,
+307,Phi Gamma Epsilon,"Portland, Oregon",Inactive,,['Helstrom (The One Who Got Away)'],,,,,Phi Gamma Epsilon House
+308,Pick Axe,,Active,,['Jessica Jones (AKA Take a Bloody Number)'],,,,,
+309,Plākāt.,,Active,['Spider-Man: Homecoming'],,,,,,
+310,Policia Militar del Perú,Peru,Active,,['Agents of S.H.I.E.L.D. (0-8-4)'],,,,,
+311,Portland Meat Market,"Portland, Oregon",,,['Helstrom (Leviathan)'],,,,,
+312,Presto,"Westview, New Jersey",Inactive,,"['WandaVision (Breaking the Fourth Wall)', 'WandaVision (The Series Finale)']",,,,,
+313,PRIDE,"Los Angeles, California",Active,,Runaways,,,,"['Church of Gibborim', 'Nemo', 'Wizard', 'Synnergy', 'Geoffrey Wilder Construction Inc.']",Wilder Mansion (formerly)PRIDE Headquarters (formerly)
+314,Priestesses of the Sovereign,,Active,"['Guardians of the Galaxy Vol. 2', 'Guardians of the Galaxy Vol. 3']",,,,,,
+315,Pro Golfer,United States of America,Active,,['Jessica Jones (AKA The Sandwich Saved Me)'],,,,,
+316,Promenade Society,New Orleans,Active,,['Cloak & Dagger (Alignment Chart)'],,,,,Promenade Society Building
+317,Proxy Magazine,,Active,,['Daredevil (No Good Deed)'],,,,,
+318,Pym Technologies,,Inactive,"['Ant-Man', 'Ant-Man and the Wasp']",['Agents of S.H.I.E.L.D. (Hawkeye)'],['Ant-Man and the Wasp Prelude'],,,,"Pym Technologies Headquarters, San Francisco"
+319,Qeng,"New York City, New YorkQeng Tower",Unknown,,['Loki (Journey Into Mystery)'],,,,,
+320,Queens Tribune,"Queens, New York City",Active,['Spider-Man: Far From Home'],,,,,,
+321,Quentin Beck's Crew,Worldwide,Unknown,['Spider-Man: Far From Home'],,,,,,
+322,Quentin Carnival,,,,['Agents of S.H.I.E.L.D. (Lockup)'],,,,,
+323,Quinn Worldwide,,Active,,"['Agents of S.H.I.E.L.D. (The Asset)', 'Agents of S.H.I.E.L.D. (Seeds)', 'Agents of S.H.I.E.L.D. (T.R.A.C.K.S.)']",,,,,Malta
+324,R.A.I.D.,,Active,,,,['Captain America: The Winter Soldier - The Official Game'],,,
+325,Rand Enterprises,"New York City, New YorkChina",Active,,"['Daredevil (Jessica Jones)', 'Daredevil (Luke Cage)', 'Daredevil (Iron Fist)', 'Daredevil (The Defenders)', 'Daredevil (Cloak & Dagger)']",,,,"['Domani Architecture', 'Hand']",Rand Enterprises Building
+326,Randy's Salvage,"New York City, New York",Active,,,,,,,
+327,Ravagers,,Active,"['Guardians of the Galaxy', 'Guardians of the Galaxy Vol. 2', 'Avengers: Endgame', 'Guardians of the Galaxy Vol. 3']",What If...?,"['Guardians of the Galaxy Prequel Infinite Comic', 'Guardians of the Galaxy Vol. 2 Prelude']",,,,
+328,Ravagers/Ravager T'Challa,,Active,,"[""What If...? (What If... T'Challa Became a Star-Lord?)"", 'What If...? (What If... The Watcher Broke His Oath?)']",,,,,
+329,Rawlins Logistics Corp,United States of America,Unknown,,['The Punisher (Cold Steel)'],,,,,
+330,Red Daggers,"Karachi, Pakistan",Active,,Ms. Marvel,,,,,Red Daggers' Hideout
+331,Red Lion National Bank,,Inactive,,Daredevil,,,,,
+332,Redfield Electronics,"732, 11th Avenue, New York City, New York",Active,,['Daredevil (Dogs to a Gunfight)'],,,,,
+333,Rising Tide,Worldwide,Active,,Agents of S.H.I.E.L.D.,,,,,
+334,Rivals,,Inactive,,Luke Cage,,,,,
+335,River Tribe,,,"['Black Panther', 'Black Panther: Wakanda Forever']",,,,,,River Village
+336,River's End Daily,"River's End, New York",Active,,['Agents of S.H.I.E.L.D. (The Totally Excellent Adventures of Mack and the D)'],,,,,
+337,River's End Police Department,"River's End, New York",Active,,"['Agents of S.H.I.E.L.D. (All the Comforts of Home)', 'Agents of S.H.I.E.L.D. (The Real Deal)']",,,,,River's End Police Station
+338,RJ News,,Active,['Iron Man'],,,,,,
+339,Rose Hill Police Department,"Rose Hill, Tennessee",Active,['Iron Man 3'],,,,,,
+340,Rose Hill Weekly,Rose Hill,Active,['Iron Man 3'],,,,,,
+341,Roxxcart,"Haven Hills, Alabama",Active,,Loki,,,,,
+342,Roxxon Corporation,Worldwide,Active,"['Iron Man', 'Iron Man 2', 'Iron Man 3']","['Agents of S.H.I.E.L.D. (Agent Carter)', 'Agents of S.H.I.E.L.D. (Daredevil)', 'Agents of S.H.I.E.L.D. (Iron Fist)', 'Agents of S.H.I.E.L.D. (Runaways)', 'Agents of S.H.I.E.L.D. (Cloak & Dagger)', 'Agents of S.H.I.E.L.D. (Helstrom)']","[""The Avengers Prelude: Fury's Big Week"", 'Captain America: Civil War Prelude']",['Iron Man 2'],"[""A Funny Thing Happened on the Way to Thor's Hammer""]","['United States Armed Forces', 'Council of Nine', 'Hand']",
+343,Royal Al Moving,"New York City, New York",Active,,Iron Fist,,,,,
+344,Russian Armed Forces,Russia,Active,"['The Avengers', 'Captain America: Civil War', 'Black Widow']","['Agents of S.H.I.E.L.D. (The Hub)', 'Agents of S.H.I.E.L.D. (Parting Shot)', 'Agents of S.H.I.E.L.D. (The Falcon and The Winter Soldier)', 'Agents of S.H.I.E.L.D. (The Whole World Is Watching)']",,,,"['Government of Russia', 'Ministry of Defence']","Moscow, Russia"
+345,Russian Mafia,"New York City, New York",Active,,"['Daredevil (Luke Cage)', 'Daredevil (Iron Fist)', 'Daredevil (The Punisher)']",,,,['Veles Taxi'],Russian Hideout (formerly)Kazan's Gym
+346,Ryhno's Gang,"New York City, New York",Inactive,,Iron Fist,,,,,Ryhno's Gang Hideout (formerly)Eden Towers
+347,S.H.I.E.L.D.,Mobile,Active,"['Iron Man', 'The Incredible Hulk', 'Iron Man 2', 'Thor', 'Captain America: The First Avenger', 'The Avengers', 'Iron Man 3', 'Thor: The Dark World', 'Captain America: The Winter Soldier', 'Avengers: Age of Ultron', 'Ant-Man', 'Captain America: Civil War', 'Ant-Man and the Wasp', 'Captain Marvel', 'Spider-Man: Far From Home', '[1]', 'Black Widow', 'Doctor Strange in the Multiverse of Madness']","['Agents of S.H.I.E.L.D. (The Falcon and The Winter Soldier)', 'Agents of S.H.I.E.L.D. (Loki)', 'Agents of S.H.I.E.L.D. (What If...?)', 'Agents of S.H.I.E.L.D. (Hawkeye)', 'Agents of S.H.I.E.L.D. (Ms. Marvel)']","['Iron Man: Fast Friends', 'Iron Man: Security Measures', 'The Incredible Hulk: The Fury Files', 'The Incredible Hulk: The Big Picture', 'Iron Man: I Am Iron Man!', 'Iron Man 2: Nick Fury: Director of S.H.I.E.L.D.', 'Iron Man 2: Public Identity', 'Iron Man 2: Phil Coulson: Agent of S.H.I.E.L.D.', 'Iron Man 2: Black Widow: Agent of S.H.I.E.L.D.', ""The Avengers Prelude: Fury's Big Week"", 'The Avengers Prelude: Black Widow Strikes', 'The Avengers: The Avengers Initiative', 'Iron Man 2 Adaptation', 'Iron Man 3 Prelude', 'Thor Adaptation', 'Thor: The Dark World Prelude', 'Captain America: The First Avenger Adaptation', 'Captain America: The Winter Soldier Infinite Comic', 'Captain America: Homecoming', 'Agents of S.H.I.E.L.D.: The Chase', 'The Avengers Adaptation', ""Avengers: Age of Ultron Prelude - This Scepter'd Isle"", 'Ant-Man Prelude', 'Avengers: Operation HYDRA', 'Captain America: Civil War Prelude', 'Captain America: Civil War Prelude Infinite Comic', 'Thor: Ragnarok Prelude', 'Avengers: Infinity War Prelude', 'Ant-Man and the Wasp Prelude', 'Captain Marvel Prelude', 'Black Widow Prelude']",['Iron Man 2Captain America: The Winter Soldier - The Official GameAvengers: Damage Control (logo)'],"[""The ConsultantA Funny Thing Happened on the Way to Thor's HammerItem 47Agent Carter""]","['United States Government', 'World Security Council', 'Advanced Threat Containment Unit']","HelicarrierTriskelionS.H.I.E.L.D. HeadquartersZephyr One (formerly)S.H.I.E.L.D. Headquarters (formerly)Playground (destroyed)Iliad (Robert Gonzales' faction, until merge)Lighthouse (formerly)Triskelion (destroyed)Lighthouse (heavily damaged)"
+348,S.H.I.E.L.D./Age of Ultron,,Defunct,,['What If...? (What If... Ultron Won?)'],,,,,
+349,S.H.I.E.L.D./Avengers Assassinated,,Active,,"['What If...? (What If... The World Lost Its Mightiest Heroes?)', 'What If...? (What If... The Watcher Broke His Oath?)']",,,,,
+350,S.H.I.E.L.D./Camp Lehigh Time Heist,,Active,['Avengers: Endgame'],,,,,,Camp Lehigh
+351,S.H.I.E.L.D./Destroyed Earth,,Defunct,,['Agents of S.H.I.E.L.D. (The Last Day)'],,,,,
+352,S.H.I.E.L.D./Framework,S.H.I.E.L.D. Academy,Deleted,,Agents of S.H.I.E.L.D.,,,,,Playground
+353,S.H.I.E.L.D./History Altered by Chronicoms,Mobile,Active,,Agents of S.H.I.E.L.D.,,,,['United States Government'],The Krazy KanoeTriskelion (destroyed)
+354,S.H.I.E.L.D./New York Time Heist,,Active,['Avengers: Endgame'],['Loki (Glorious Purpose)'],,,,,
+355,S.H.I.E.L.D./Party Prince Thor,,Active,,['What If...? (What If... Thor Were an Only Child?)'],,,,,
+356,S.H.I.E.L.D./Super Soldier Peggy Carter,,Active,,"['What If...? (What If... Captain Carter Were The First Avenger?)', 'What If...? (What If... The Watcher Broke His Oath?)']",,,,,
+357,S.H.I.E.L.D./Zombie Outbreak,,Defunct,,['What If...? (What If... Zombies!?)'],,,,,
+358,S.W.O.R.D.,Mobile,Active,"['Thor', 'deleted scene', 'The Marvels']",WandaVision,,,,"['United States Government', 'United States Air Force']",S.W.O.R.D. Headquarters
+359,Sakaaran Guards,Sakaar,Active,['Thor: Ragnarok'],,,,,['Grandmaster'],
+360,Sakaaran Scrappers,Sakaar,Active,['Thor: Ragnarok'],,,,,,
+361,Salem Coven,"Salem, Massachusetts",Disbanded,,"['WandaVision (Previously On)', 'WandaVision (The Series Finale)']",,,,,
+362,Salvation Army,,Active,"['Captain America: Civil War', 'Spider-Man: Far From Home']",['Helstrom (Committed)'],,,,,"London, England"
+363,Samson Development,"New York City, New York",Active,,"['The Falcon and The Winter Soldier (New World Order)', 'The Falcon and The Winter Soldier (One World, One People)']",,,,,
+364,San Francisco Police Department,San Francisco,Active,"['Ant-Man', 'Ant-Man and the Wasp', 'Ant-Man and the Wasp: Quantumania', '[1]']",Helstrom,['Ant-Man and the Wasp Prelude'],,,,
+365,San Francisco Tribune,"San Francisco, California",Active,,"['Agents of S.H.I.E.L.D. (Ascension)', 'Agents of S.H.I.E.L.D. (Helstrom)', 'Agents of S.H.I.E.L.D. (Viaticum)', 'Agents of S.H.I.E.L.D. (Committed)']",,,,,
+366,Savannah Police Department,"Savannah, Georgia",Active,,"['Luke Cage (Step in the Arena)', 'Luke Cage (Soul Brother #1)']",,,,,
+367,SBN,Edinburgh,Active,"['Avengers: Infinity War', 'Spider-Man: No Way Home']",,['Avengers: Endgame Prelude'],,,,
+368,Schutzstaffel,Nazi Germany,Dissolved,['Captain America: The First Avenger'],['Agents of S.H.I.E.L.D. (Agent Carter)'],['Captain America: First Vengeance'],,,['Third Reich'],Berlin
+369,Schäfer Sicherheitsdienst,,,['The Avengers'],,['The Avengers Adaptation'],,,,"Schäfer Sicherheitsdienst Building, Stuttgart"
+370,Screen Times,,Active,,['Agent Carter (Better Angels)'],,,,,
+371,September Foundation,,Active,"['Captain America: Civil War', 'Spider-Man: Far From Home']",,['Spider-Man: Homecoming Prelude'],,,['Stark Industries'],
+372,Serpent Society,,Active,,,,['Captain America: The Winter Soldier - The Official Game'],,,
+373,Sherwin Holdings,,,,['The Defenders (Mean Right Hook)'],,,,,
+374,Silver & Brent,"New York City, New York",Unknown,,"['Daredevil (Stick)', 'Daredevil (Daredevil)']",,,,,
+375,Sleepless City News,New York City,Active,['Thor: Ragnarok'],,,,,,
+376,Sloan Limited,"New York City, New York",Active,,Hawkeye,,,,['Tracksuit Mafia'],
+377,Sojourn Enterprises,,Unknown,,,['The Avengers Prelude: Black Widow Strikes'],,,['Ten Rings'],"Sojourn Enterprises Headquarters, Vladivostok, Russia"
+378,Sokovian Armed Forces,,Defunct,['Captain America: Civil War'],"['Iron Fist (Citadel on the Edge of Vengeance)', 'Iron Fist (A Duel of Iron)', 'Iron Fist (WandaVision)', 'Iron Fist (Previously On)']",,,,['EKO Scorpion'],
+379,Sokovian Police Department,Sokovia,Unknown,['Avengers: Age of Ultron'],,,,,['Sokovian Government'],Novi Grad (formerly)
+380,Souls of the Damned,,Active,['Doctor Strange in the Multiverse of Madness'],,,,,,
+381,Soviet Armed Forces,,Disbanded,"['Captain America: The Winter Soldier', 'Black Widow']",Agent Carter,['Ant-Man Prelude'],,,"['Soviet Union', 'HYDRA']",Moscow
+382,Special Operations Executive,United Kingdom,Inactive,,"['Agent Carter (Smoke & Mirrors)', 'Agent Carter (The Edge of Mystery)']",,,,['Allies'],"London, England"
+383,SportSunday,United States of America,Active,,['Jessica Jones (AKA The Sandwich Saved Me)'],,,,,
+384,Stakar Ravager Clan,Intergalactic,Active,['Guardians of the Galaxy Vol. 2'],,,,,['Ravagers'],Stakar Ogord's Warship
+385,Stark Industries,"Los Angeles, CaliforniaNew York City, New York",Active,"['Iron Man', 'The Incredible Hulk', 'Iron Man 2', 'Thor', 'Captain America: The First Avenger', 'The Avengers', 'Iron Man 3', 'Captain America: The Winter Soldier', 'Avengers: Age of Ultron', 'Ant-Man', 'Captain America: Civil War', 'Spider-Man: Homecoming', 'Avengers: Infinity War', 'Avengers: Endgame', 'Spider-Man: Far From Home', 'Spider-Man: No Way Home']","['Agents of S.H.I.E.L.D. (Agent Carter)', 'Agents of S.H.I.E.L.D. (Iron Fist)', 'Agents of S.H.I.E.L.D. (Cloak & Dagger)', 'Agents of S.H.I.E.L.D. (WandaVision)', 'Agents of S.H.I.E.L.D. (The Falcon and The Winter Soldier)', 'Agents of S.H.I.E.L.D. (Loki)', 'Agents of S.H.I.E.L.D. (Hawkeye)', 'Agents of S.H.I.E.L.D. (She-Hulk: Attorney at Law)', 'Agents of S.H.I.E.L.D. (Armor Wars)']","['Iron Man: Fast Friends', 'Iron Man: Security Measures', 'Iron Man: I Am Iron Man!', 'Iron Man: Will Online Evils Prevail?', 'Iron Man 2: Public Identity', 'Iron Man 2: Phil Coulson: Agent of S.H.I.E.L.D.', 'Iron Man: Limited Edition', 'Iron Man 2: Black Widow: Agent of S.H.I.E.L.D.', 'Iron Man Royal Purple Custom Comic', 'Iron Man 2: Fist of Iron', 'Captain America: First Vengeance', ""The Avengers Prelude: Fury's Big Week"", 'The Avengers: Iron Man Mark VII', 'The Avengers Prelude: Black Widow Strikes', 'The Avengers: The Avengers Initiative', 'Iron Man 2 Adaptation', 'Iron Man 3 Prelude', 'Thor Adaptation', 'Iron Man: The Coming of the Melter', 'Captain America: The First Avenger Adaptation', 'The Avengers Adaptation', 'Avengers: Operation HYDRA', 'Captain America: Civil War Prelude', 'Captain America: Road to War', 'Spider-Man: Homecoming Prelude', 'Black Panther Prelude', 'Thor: Ragnarok Prelude', 'Captain Marvel Prelude', 'Spider-Man: Far From Home Prelude', 'Black Widow Prelude']",['Iron ManThe Incredible HulkIron Man 2Iron Man 3 - The Official GameSpider-Man: Homecoming - Virtual Reality ExperienceAvengers: Damage Control'],['The Consultant'],"['United States Armed Forces', 'S.H.I.E.L.D.']",Stark Industries HeadquartersStark Tower (formerly)
+386,Stark Industries Racing Team,,Active,['Iron Man 2'],,['Iron Man Royal Purple Custom Comic'],,,['Stark Industries'],
+387,Stark Industries/Killmonger's War,United States of America,Active,,"['What If...? (What If... Killmonger Rescued Tony Stark?)', 'What If...? (What If... The Watcher Broke His Oath?)']",,,,['United States Armed Forces'],Stark Industries Headquarters
+388,Stark Industries/New York Time Heist,United States of America,Active,['Avengers: Endgame'],['Loki (Glorious Purpose)'],,,,,
+389,Stark Industries/Pipe World,,,['Doctor Strange in the Multiverse of Madness'],,,,,,
+390,Stark Relief Foundation,Worldwide,Active,"['Avengers: Age of Ultron', 'Spider-Man: Far From Home']",,,,,['Stark Industries'],
+391,Stark Resilient,,Active,,,,['Iron Man 3 - The Official Game (mentioned)'],,,
+392,Stark-Fujikawa,Japan,Active,,,,,,['Stark Industries'],
+393,StatiCorp,"Batesville, Utah",Active,,['Agents of S.H.I.E.L.D. (Repairs)'],,,,['Roxxon Corporation'],StatiCorp Facility
+394,Staying Awake,,Active,,['Moon Knight (The Goldfish Problem)'],,,,,
+395,Stokes Crime Family,"New York City, New York",Inactive,,Luke Cage,,,,,Harlem's Paradise
+396,Strategic Scientific Reserve,United States of AmericaUnited Kingdom,Absorbed into S.H.I.E.L.D.,"['Captain America: The First Avenger', 'Captain America: The Winter Soldier', 'Avengers: Age of Ultron', 'Captain America: Civil War']","['Agents of S.H.I.E.L.D. (Agent Carter)', 'Agents of S.H.I.E.L.D. (What If...?)']","['Captain America: First Vengeance', 'The Avengers: The Avengers Initiative', 'Captain America: The First Avenger Adaptation', 'Avengers: Infinity War Prelude']",['Captain America: Super Soldier'],['Agent Carter'],"['United States Army', 'S.H.I.E.L.D.']","Strategic Scientific Reserve Headquarters, London (formerly)"
+397,Strategic Scientific Reserve/Super Soldier Peggy Carter,,Absorbed into S.H.I.E.L.D.,,['What If...? (What If... Captain Carter Were The First Avenger?)'],,,,,
+398,Sturmabteilung,Germany,Dissolved,['Captain America: The Winter Soldier'],,['Captain America: First Vengeance'],,,['Third Reich'],"Berlin, Nazi Germany"
+399,Stylers,"New York City, New York",Inactive,,Luke Cage,,,,,Yardies' Hideout (formerly)Harlem's Paradise (formerly)
+400,Summerville Department Stores,"New York City, New York",Active,,"['Daredevil (Daredevil)', 'Daredevil (Iron Fist)', 'Daredevil (Target: Iron Fist)']",,,,,
+401,SVR,Russia,Active,,"['Agents of S.H.I.E.L.D. (Hot Potato Soup)', 'Agents of S.H.I.E.L.D. (The Man Behind the Shield)']",,,,,SVR Submarine Base (formerly)
+402,Synnergy,"Los Angeles, California",Active,,Runaways,,,,['PRIDE'],Synnergy Laboratories
+403,Ta Lo Armed Forces,Ta Lo,Active,['Shang-Chi and the Legend of the Ten Rings'],,,,,,"Ancient Village, Ta Lo"
+404,Ten Rings (Organization),Worldwide,Active,"['Iron Man', 'Iron Man 2', 'Iron Man 3', 'Ant-Man', 'Shang-Chi and the Legend of the Ten Rings']",['Daredevil (Ms. Marvel)'],"['Iron Man: Security Measures', 'Iron Man: I Am Iron Man!', 'Iron Man 2: Security Breach', 'Iron Man: Will Online Evils Prevail?', 'Iron Man 2: Nick Fury: Director of S.H.I.E.L.D.', 'Iron Man 2: Public Identity', 'Iron Man 2:  Phil Coulson: Agent of S.H.I.E.L.D.', 'Iron Man 2: Black Widow: Agent of S.H.I.E.L.D.', 'Iron Man Royal Purple Custom Comic', 'The Avengers: Iron Man Mark VII', 'The Avengers Prelude: Black Widow Strikes', 'Iron Man 2 Adaptation', 'Iron Man 3 Prelude']",['Iron Man'],['All Hail the King'],,Ten Rings Headquarters
+405,Ten Rings (Organization)/Killmonger's War,Worldwide,Active,,['What If...? (What If... Killmonger Rescued Tony Stark?)'],,,,,
+406,Testament Industries,United States of America,Active,,The Punisher,,,,,
+407,The Batesville Clarion,Batesville,Active,,['Agents of S.H.I.E.L.D. (Repairs)'],,,,,
+408,The Boston Guardian,Boston,Active,['Iron Man 2'],,,,,,
+409,The Brooklyn Journal,,Active,['Captain America: The First Avenger'],"['The Falcon and The Winter Soldier (New World Order)', 'The Falcon and The Winter Soldier (One World, One People)']",,,,,
+410,The Chronicle,,Active,"['Iron Man', 'Avengers: Age of Ultron']",['Cloak & Dagger (First Light)'],"['Iron Man: Security Measures', 'Iron Man: I Am Iron Man!', 'Iron Man 2: Public Identity']",,,,
+411,The Colonial Post,New York City,Active,['Thor: Ragnarok'],,,,,,
+412,The D.C. Daily Chronicle,"Washington, D.C.",Active,,['Agents of S.H.I.E.L.D. (Nothing Personal)'],,,,,
+413,The Daily,"Lagos, Nigeria",Active,['Captain America: Civil War'],['WandaVision (On a Very Special Episode...)'],,,,,
+414,The Daily Bugle,,Active,"['Spider-Man: Far From Home', 'Spider-Man: No Way Home']",,,['The Incredible Hulk'],,,"Daily Bugle Broadcasting Center, New York City"
+415,The Daily Cadet,,Defunct,,['Agents of S.H.I.E.L.D. (Making Friends and Influencing People)'],,,,['S.H.I.E.L.D.'],S.H.I.E.L.D. Academy
+416,The Daily Courier,,Active,,"['Agents of S.H.I.E.L.D. (Ascension)', 'Agents of S.H.I.E.L.D. (All the Comforts of Home)']",,,,,
+417,The Dallas Record,"Dallas, Texas",Active,['Iron Man 2'],"[""Helstrom (Mother's Little Helpers)"", 'Helstrom (The One Who Got Away)']",,,,,
+418,The Hawaii Chronicle,Hawaii,Active,,['Inhumans (Divide -- And Conquer)'],,,,,
+419,The Kitchen Post,"Hell's Kitchen, New York City",Active,,['Daredevil (Kinbaku)'],,,,,
+420,The Knowledge Base,Worldwide,Active,,"[""Jessica Jones (AKA It's Called Whiskey)"", 'Jessica Jones (AKA Top Shelf Perverts)', ""Jessica Jones (AKA I've Got the Blues)""]",,,,,
+421,The Nation's News Source,,Active,['Captain America: The Winter Soldier'],,['Captain America: Civil War Prelude'],,,,
+422,The New York Examiner,"New York City, New York",Active,"['Captain America: The First Avenger', 'Spider-Man: No Way Home']","['Agent Carter (Daredevil)', 'Agent Carter (The Punisher)', 'Agent Carter (The Falcon and The Winter Soldier)']",,,,,
+423,The New York News,New York City,Active,['Iron Man 2'],['Agent Carter (The Iron Ceiling)'],,,,,
+424,The Oregon Examiner,Oregon,Active,,"[""Helstrom (Mother's Little Helpers)"", 'Helstrom (The One Who Got Away)']",,,,,
+425,The Spot,Lagos,Active,['Captain America: Civil War'],,,,,,
+426,The Washington Gazette,"Washington, D.C.",Active,['Iron Man 2'],,,,,,
+427,The Washington Inquirer,"Washington, D.C.",Active,['Iron Man 3'],,,,,,
+428,Three Fates,Norway,,,,"['Thor, The Mighty Avenger']",,,,
+429,Time Variance Authority,Outside of space and timeMobile,Unknown,,Loki,,,,['Minutemen'],Time Variance Authority Office
+430,Tivan Group,,Active,"['Thor: The Dark World', 'Guardians of the Galaxy', 'Guardians of the Galaxy Vol. 2', 'Avengers: Infinity War']",,"['Guardians of the Galaxy Prequel Infinite Comic', 'Guardians of the Galaxy Vol. 2 Prelude']",,,,"Exitar, Knowhere"
+431,Tivan Group/Ravager T'Challa,,Unknown,,"[""What If...? (What If... T'Challa Became a Star-Lord?)""]",,,,,"Exitar, Knowhere"
+432,TKY,,Active,['The Avengers'],,,,,,
+433,Toronto Telegraph,Toronto,Active,['Iron Man 2'],,,,,,
+434,Tracksuit Mafia,"New York City, New York",Active,,Hawkeye,,,,,Fat Man Auto RepairKB Toys Store (formerly)
+435,Transhumanists,"Bucharest, Romania",Active,,['Agents of S.H.I.E.L.D. (The Singularity)'],,,,,
+436,Transia Corporation,United States of America,Active,,"['Agents of S.H.I.E.L.D. (Spacetime)', 'Agents of S.H.I.E.L.D. (Paradise Lost)']",,,,"['GT Agrochemical', 'HYDRA']",Transia Corporation Building
+437,Tribal Council,"Birnin Zana, Wakanda",,"['Black Panther', 'Black Panther: Wakanda Forever']",,,,,,Citadel
+438,True Believers,,Active,,Agents of S.H.I.E.L.D.,,,,,Lighthouse (formerly)Zephyr One (formerly)
+439,Trust a Bro Moving Company,,Active,,['Hawkeye (Ms. Marvel)'],,,,['Tracksuit Mafia'],Oregon
+440,TVT News,,Active,,,['Iron Man 2: Public Identity'],,,,
+441,Twin Oaks Shipping Company,,,,['The Defenders (Mean Right Hook)'],,,,,
+442,U-GIN,"Seoul, South Korea",Active,['Avengers: Age of Ultron'],,,,,,U-GIN Genetic Research Facility
+443,U.L.T.I.M.A.T.U.M.,,Active,,,,['Captain America: The Winter Soldier - The Official Game'],,,
+444,Union Allied Construction,"New York City, New York",Defunct,,['Daredevil (Jessica Jones)'],,,,,
+445,United Nations,United States of AmericaAustria,Active,"['Captain America: Civil War', 'Black Panther', 'Eternals', 'Black Panther: Wakanda Forever']","['Agents of S.H.I.E.L.D. (Luke Cage)', 'Agents of S.H.I.E.L.D. (The Punisher)', 'Agents of S.H.I.E.L.D. (Helstrom)', 'Agents of S.H.I.E.L.D. (The Falcon and The Winter Soldier)']","['Iron Man 2: Public Identity', 'Spider-Man: Homecoming Prelude', 'Black Panther Prelude', 'Avengers: Infinity War Prelude', 'Black Widow Prelude']",['The Incredible Hulk'],,,United Nations Headquarters
+446,United Nations/Avengers Assassinated,United States of America,Active,,['What If...? (What If... The World Lost Its Mightiest Heroes?)'],,,,['Asgard'],United Nations Headquarters
+447,United States Armed Forces,,Active,"['Iron Man', 'The Incredible Hulk', 'Iron Man 2', 'Captain America: The First Avenger', 'The Avengers', 'Iron Man 3', 'Captain America: The Winter Soldier', 'Avengers: Age of Ultron', 'Ant-Man', 'Captain America: Civil War', 'Doctor Strange', 'Spider-Man: Homecoming', 'Black Panther', 'Captain Marvel', 'Avengers: Endgame', 'Black Widow', 'Eternals', 'Spider-Man: No Way Home']","['Agents of S.H.I.E.L.D. (Agent Carter)', 'Agents of S.H.I.E.L.D. (Daredevil)', 'Agents of S.H.I.E.L.D. (Jessica Jones)', 'Agents of S.H.I.E.L.D. (Luke Cage)', 'Agents of S.H.I.E.L.D. (Iron Fist)', 'Agents of S.H.I.E.L.D. (The Punisher)', 'Agents of S.H.I.E.L.D. (Cloak & Dagger)', 'Agents of S.H.I.E.L.D. (WandaVision)', 'Agents of S.H.I.E.L.D. (The Falcon and The Winter Soldier)', 'Agents of S.H.I.E.L.D. (Moon Knight)', 'Agents of S.H.I.E.L.D. (Secret Invasion)', 'Agents of S.H.I.E.L.D. (Armor Wars)']","['Iron Man: Fast Friends', 'Iron Man: Security Measures', 'The Incredible Hulk: The Fury Files', 'The Incredible Hulk: The Big Picture', 'Iron Man: I Am Iron Man!', 'Iron Man 2: Nick Fury: Director of S.H.I.E.L.D.', 'Iron Man 2: Public Identity', 'Captain America: First Vengeance', 'Captain America: Evil Lurks Everywhere', ""The Avengers Prelude: Fury's Big Week"", 'Iron Man 2 Adaptation', 'Iron Man 3 Prelude', 'Iron Man: The Coming of the Melter', 'Captain America: The First Avenger Adaptation', 'Captain America: Civil War Prelude', 'Spider-Man: Homecoming Prelude', 'Thor: Ragnarok Prelude']",['Iron ManThe Incredible HulkCaptain America: Super SoldierIron Man 3 - The Official Game (Java storyline only)'],,['United States Department of Defense'],Pentagon
+448,United States Armed Forces/Age of Ultron,,Defunct,,['What If...? (What If... Ultron Won?)'],,,,,
+449,United States Armed Forces/Avengers Assassinated,,Active,,['What If...? (What If... The World Lost Its Mightiest Heroes?)'],,,,,
+450,United States Armed Forces/Killmonger's War,,Active,,['What If...? (What If... Killmonger Rescued Tony Stark?)'],,,,,
+451,United States Congress,United States of America,Active,"['Iron Man 2', 'Captain America: The First Avenger', 'Captain America: The Winter Soldier']","['Agents of S.H.I.E.L.D. (Agent Carter)', 'Agents of S.H.I.E.L.D. (Daredevil)', 'Agents of S.H.I.E.L.D. (Iron Fist)', 'Agents of S.H.I.E.L.D. (The Punisher)', 'Agents of S.H.I.E.L.D. (The Falcon and The Winter Soldier)']","['Iron Man 2: Public Identity', 'Iron Man 2 Adaptation', 'Captain America: The First Avenger Adaptation']",,,['United States Government'],"United States Capitol, Washington, D.C."
+452,United States Department of Damage Control,United States of America,Active,"['Iron Man', 'Spider-Man: Homecoming', 'Spider-Man: No Way Home']","['Agents of S.H.I.E.L.D. (Ms. Marvel)', 'Agents of S.H.I.E.L.D. (She-Hulk: Attorney at Law)']","['Iron Man: Fast Friends', 'Captain Marvel Prelude', 'Spider-Man: Far From Home Prelude']",['Avengers: Damage Control'],,"['S.H.I.E.L.D.', 'Stark Industries', 'United States Government']",Damage Control Headquarters
+453,United States Department of Defense,United States of America,Active,"['Iron Man', 'Iron Man 2', 'Captain America: The Winter Soldier', 'Spider-Man: Far From Home']","['Agents of S.H.I.E.L.D. (The Punisher)', 'Agents of S.H.I.E.L.D. (The Falcon and The Winter Soldier)']","['Iron Man: I Am Iron Man!', ""The Avengers Prelude: Fury's Big Week"", 'Iron Man 3 Prelude', 'Captain America: Civil War Prelude']",,,"['NSA', 'United States Armed Forces', 'DARPA', 'NRO']",Pentagon
+454,United States Department of Homeland Security,United States of America,Active,"['Iron Man 2', 'Iron Man 3', 'Ant-Man and the Wasp']","['Agents of S.H.I.E.L.D. (Daredevil)', 'Agents of S.H.I.E.L.D. (Luke Cage)', 'Agents of S.H.I.E.L.D. (The Defenders)', 'Agents of S.H.I.E.L.D. (The Punisher)']",['Iron Man: Security Measures'],,,['United States Government'],"Washington, D.C."
+455,United States Marshals Service,United States of America,Active,"['Iron Man 2', 'Captain America: Civil War']","['Daredevil (Luke Cage)', 'Daredevil (Iron Fist)']",['Iron Man 2 Adaptation'],,,['United States Department of Justice'],"Arlington, Virginia"
+456,United States Secret Service,United States of America,Active,['Iron Man 3'],['Agents of S.H.I.E.L.D. (The Falcon and The Winter Soldier)'],,,,['United States Department of Homeland Security'],"Washington, D.C."
+457,Up Close and Magical,,Active,['Ant-Man and the Wasp'],,,,,,
+458,Uptown Block Kings,"New Orleans, Louisiana",Active,,Cloak & Dagger,,,,,
+459,Uptown Investments,"New York City, New York",Unknown,,Luke Cage,,,,,Uptown Investments Building
+460,VAJA,,Active,,,['The Avengers Prelude: Black Widow Strikes'],,,,
+461,Vancorp,,Active,,"['Daredevil (Blindsided)', 'Daredevil (The Perfect Game)']",,,,,
+462,Vanity Fair,United States of America,Active,"['Iron Man', 'Iron Man 2']","['Runaways (Reunion)', 'Runaways (Destiny)']","['Iron Man: I Am Iron Man!', 'Iron Man 2 Adaptation']",,,,
+463,Veles Taxi,,Inactive,,"['Daredevil (In the Blood)', 'Daredevil (World on Fire)', 'Daredevil (Condemned)']",,,,['Russian Mafia'],
+464,View,United States of America,Active,,['Jessica Jones (AKA The Sandwich Saved Me)'],,,,,
+465,Viking Motel Sex Traffic Ring,"New Orleans, Louisiana",Inactive,,Cloak & Dagger,,,,,Viking Motel
+466,Vishanti,,Unknown,,['What If...? (What If... Doctor Strange Lost His Heart Instead of His Hands?)'],,,,,
+467,Vistacorp,"San Jose, California",Active,['Ant-Man'],,"['Ant-Man - Scott Lang: Small Time', 'Ant-Man and the Wasp Prelude']",,,,Vistacorp Headquarters
+468,VQB News,New York City,Active,,"['Daredevil (Reunion)', 'Daredevil (A New Napkin)']",,,,,
+469,VWXTV,New York City,Active,,"['Daredevil (Reunion)', 'Daredevil (A New Napkin)']",,,,,
+470,Wai-Go Industries,"New York City, New York",Active,,"['Daredevil (Daredevil)', 'Daredevil (Iron Fist)', 'Daredevil (Immortal Emerges from Cave)']",,,,,
+471,Wakandan Design Group,,Active,"['Black Panther', 'Avengers: Infinity War']",['The Falcon and The Winter Soldier (Truth)'],"['Black Panther Prelude', 'Avengers: Infinity War Prelude', 'Avengers: Endgame Prelude']",['Avengers: Damage Control'],,['Golden Tribe'],"Mount Bashenga, Wakanda"
+472,Wakandan Royal Guard,Wakanda,Active,"['Black Panther', 'Avengers: Infinity War', 'Avengers: Endgame', 'Black Panther: Wakanda Forever']",['Ms. Marvel (Generation Why)'],['Avengers: Endgame Prelude'],,,['Golden Tribe'],"Golden City, Wakanda"
+473,Wappingers Falls Police Department,"Wappingers Falls, New York",Active,,['Jessica Jones (AKA The Double Half-Wappinger)'],,,,,Wappingers Falls Police Station
+474,War Dogs,Worldwide,Active,"['Black Panther', 'Black Panther: Wakanda Forever']",,['Black Panther Prelude'],,,,
+475,War Dogs/Killmonger's War,Worldwide,Active,,['What If...? (What If... Killmonger Rescued Tony Stark?)'],,,,,
+476,Washington World News,"Washington, D.C.",Active,,['Agents of S.H.I.E.L.D. (Nothing Personal)'],,,,,
+477,Watchdogs,"Easterling Farms, IllinoisGeorgiaWashingtonIvanov Oil Platform",Active,,Agents of S.H.I.E.L.D.,,,,"['HYDRA', 'Aryan Brotherhood', 'Chinatown Crew']",Superior's Submarine Base
+478,WBVF,New Orleans,Active,,"['Cloak & Dagger (Shadow Selves)', 'Cloak & Dagger (Level Up)']",,,,,
+479,Wealth & Capital,,Active,,"['Agents of S.H.I.E.L.D. (The Magical Place)', 'Agents of S.H.I.E.L.D. (T.R.A.C.K.S.)']",,,,,
+480,Weddings,United States of America,Active,,['Jessica Jones (AKA The Sandwich Saved Me)'],,,,,
+481,Wehrmacht,Europe,Defunct,"['Captain America: The First Avenger', 'The Avengers', 'deleted scene', 'Captain America: The Winter Soldier', 'Avengers: Age of Ultron']",Agents of S.H.I.E.L.D.,['Captain America: First Vengeance'],,,['Nazi Germany'],Berlin
+482,Westmeyer-Holt Contracting,"New York City, New York",Active,,"['Daredevil (Shadows in the Glass)', 'Daredevil (Speak of the Devil)', 'Daredevil (Iron Fist)', 'Daredevil (Felling Tree with Roots)']",,,,,
+483,Westview Herald,"Westview, New Jersey",Active,,"['WandaVision (Filmed Before a Live Studio Audience)', 'WandaVision (Now in Color)', 'WandaVision (On a Very Special Episode...)']",,,,,
+484,Westview Neighborhood Watch,"Westview, New Jersey",Inactive,,"[""WandaVision (Don't Touch That Dial)"", 'WandaVision (On a Very Special Episode...)', 'WandaVision (All-New Halloween Spooktacular!)']",,,,,
+485,WFON TV,,Active,,,"[""The Avengers Prelude: Fury's Big Week""]",,,,
+486,WHiH World News,,Active,"['The Incredible Hulk', 'Iron Man 2', 'Black Widow', 'Eternals', 'Spider-Man: No Way Home', 'Doctor Strange in the Multiverse of Madness']","['Agents of S.H.I.E.L.D. (Daredevil)', 'Agents of S.H.I.E.L.D. (Jessica Jones)', 'Agents of S.H.I.E.L.D. (Luke Cage)', 'Agents of S.H.I.E.L.D. (Iron Fist)', 'Agents of S.H.I.E.L.D. (Inhumans)', 'Agents of S.H.I.E.L.D. (The Punisher)', 'Agents of S.H.I.E.L.D. (Runaways)', 'Agents of S.H.I.E.L.D. (WandaVision)', 'Agents of S.H.I.E.L.D. (The Falcon and The Winter Soldier)']","['Iron Man 2: Public Identity', ""The Avengers Prelude: Fury's Big Week"", 'Iron Man 2 Adaptation', 'Black Panther Prelude']",,,['Vistacorp'],
+487,WHJN,New York City,Active,['Avengers: Endgame'],['Loki (Glorious Purpose)'],,,,,
+488,Wild Red Hawks,New Orleans,Active,,Cloak & Dagger,,,,,
+489,Wilder Innovators,"Los Angeles, California",,,['Runaways (Cheat The Gallows)'],,,,,Wilder Innovators Headquarters
+490,Williams Plumbing,"New York City, New York",Active,['The Incredible Hulk'],,,,,,
+491,Wired,"San Francisco, California",Active,"['Iron Man', 'Iron Man 2']","['Runaways (Destiny)', 'Runaways (Refraction)']",['Iron Man 2: Public Identity'],,,,
+492,Wizard,"Los Angeles, California",Active,,Runaways,,,,['PRIDE'],Wizard Headquarters
+493,WJBP-TV,"New York City, New York",Active,,"['Daredevil (Jessica Jones)', 'Daredevil (Luke Cage)', 'Daredevil (Iron Fist)', 'Daredevil (The Punisher)']",,,,,
+494,WKGU News,New York City,Active,,"['Luke Cage (Manifest)', ""Luke Cage (Blowin' Up the Spot)"", 'Luke Cage (Take It Personal)', 'Luke Cage (You Know My Steez)']",,,,,
+495,WLGJ,"New York City, New York",Active,['Spider-Man: No Way Home'],,,,,,
+496,WNEX New York,New York City,Active,,"['Daredevil (Jessica Jones)', 'Daredevil (Luke Cage)', 'Daredevil (Iron Fist)', 'Daredevil (The Defenders)', 'Daredevil (The Punisher)']",,,,,
+497,WNJG,New York City,Active,,"['Luke Cage (Manifest)', 'Luke Cage (You Know My Steez)']",,,,,
+498,WNKW,"Washington, D.C.",Active,['Captain America: The Winter Soldier'],,,,,,
+499,World Security Council,Worldwide,Active,"['The Avengers', 'Captain America: The Winter Soldier', 'Captain America: Civil War', 'Avengers: Endgame']",Agents of S.H.I.E.L.D.,"[""The Avengers Prelude: Fury's Big Week"", 'The Avengers: The Avengers Initiative', 'The Avengers Adaptation', ""Avengers: Age of Ultron Prelude - This Scepter'd Isle"", 'Captain America: Civil War Prelude', 'Black Widow Prelude']",['Captain America: The Winter Soldier - The Official Game'],['The Consultant (mentioned)'],['S.H.I.E.L.D.'],
+500,Wrigley Fire Department,"Wrigley, Pennsylvania",Active,,['Agents of S.H.I.E.L.D. (FZZT)'],,,,,
+501,WRZP,"New York City, New York",Active,['Spider-Man: No Way Home'],,,,,,
+502,WYAX,Chattanooga,Active,['Iron Man 3'],,,,,,
+503,WZKC,New York City,Active,,"['Daredevil (Reunion)', 'Daredevil (One Last Shot)', 'Daredevil (A New Napkin)', 'Daredevil (Jessica Jones)', 'Daredevil (AKA Camera Friendly)']",,,,,
+504,WZPZ,Chattanooga,Active,['Iron Man 3'],,['Captain America: Civil War Prelude'],,,,
+505,WZTM News,United States of America,Active,,"['Agents of S.H.I.E.L.D. (Daredevil)', 'Agents of S.H.I.E.L.D. (Luke Cage)']",,,,,
+506,WZVR News,"New York City, New York",Active,,"['Daredevil (Jessica Jones)', 'Daredevil (Luke Cage)', 'Daredevil (Iron Fist)']",,,,,
+507,Wütend Enterprises,,,,['The Defenders (Mean Right Hook)'],,,,,
+508,X-Con Security Consultants,"San Francisco, California",Active,"['Ant-Man and the Wasp', 'Avengers: Endgame']",,,,,,X-Con Security Consultants Office
+509,Xining Airways,Worldwide,Active,,['Daredevil (Into the Ring)'],,,,,
+510,Yakuza,Japan,Active,['Avengers: Endgame'],"['Agents of S.H.I.E.L.D. (Daredevil)', 'Agents of S.H.I.E.L.D. (Iron Fist)', 'Agents of S.H.I.E.L.D. (Hawkeye)']",,,,,
+511,Yangsi Gonshi,"New York City, New York",Active,,"['Daredevil (Luke Cage)', 'Daredevil (Iron Fist)']",,,,,Golden SandsRed Hook Pier
+512,Yardies,"New York City, New York",Defunct,,Luke Cage,,,,,Crown Heights
+513,Yin-Yang Won Ton Delivery Service,"New York City, New York",Active,,['Iron Fist (The Fury of Iron Fist)'],,,,['Golden Tigers'],
+514,Yondu Ravager Clan,Intergalactic,Defunct,"['Guardians of the Galaxy', 'Guardians of the Galaxy Vol. 2']",What If...?,"['Guardians of the Galaxy Prequel Infinite Comic', 'Guardians of the Galaxy Vol. 2 Prelude']",,,['Ravagers'],Eclector
+515,Yoshioka Corporation,,,,['The Defenders (Mean Right Hook)'],,,,,
+516,ZCN,,Active,,['Daredevil (Jessica Jones)'],,,,,
+517,ZOMS,,Active,['Captain America: Civil War'],,,,,,

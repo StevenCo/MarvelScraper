@@ -1,0 +1,36 @@
+movieId,name,releaseDate,runningTime,boxOffice
+1,Iron Man,"April 30, 2008 (international)May 2, 2008 (U.S.)",126 minutes,$585.2 million
+2,The Incredible Hulk,"June 13, 2008",112 minutes,$263.4 million
+3,Iron Man 2,"April 28, 2010 (international)May 7, 2010 (U.S.)",125 minutes,$623.9 million
+4,Thor,"April 21, 2011 (Australia)April 27, 2011 (international)May 6, 2011 (U.S.)",114 minutes,$449.3 million
+5,Captain America: The First Avenger,"July 22, 2011 (U.S.)July 29, 2011 (U.K.)",124 minutes,$370.6 million
+6,The Avengers,"April 25, 2012 (international)May 4, 2012 (U.S.)",143 minutes,$1.519 billion
+7,Iron Man 3,"April 24, 2013 (international)May 3, 2013 (U.S.)",130 minutes,$1.215 billion
+8,Thor: The Dark World,"October 30, 2013 (international)November 8, 2013 (U.S.)",112 minutes,$644.6 million
+9,Captain America: The Winter Soldier,"March 26, 2014 (international)April 4, 2014 (U.S.)",136 minutes,$714.4 million
+10,Guardians of the Galaxy,"July 31, 2014 (U.K.)August 1, 2014 (U.S.)",122 minutes,$773.3 million
+11,Avengers: Age of Ultron,"April 22, 2015 (international)May 1, 2015 (U.S.)",141 minutes,$1.405 billion
+12,Ant-Man,"July 14, 2015 (international)July 17, 2015 (U.K. & U.S.)",117 minutes,$519.4 million
+13,Captain America: Civil War,"April 27, 2016 (international)May 6, 2016 (U.S.)",147 minutes,$1.153 billion
+14,Doctor Strange,"October 25, 2016 (international)November 4, 2016 (U.S.)",115 minutes,$677.7 million
+15,Guardians of the Galaxy Vol. 2,"April 25, 2017 (International)May 5, 2017 (U.S.)",137 minutes,$863.8 million
+16,Spider-Man: Homecoming,"July 5, 2017 (U.K.)July 7, 2017 (U.S.)",133 minutes,$880.2 million
+17,Thor: Ragnarok,"October 24, 2017 (international)November 3, 2017 (U.S.)",130 minutes,$854.0 million
+18,Black Panther,"February 13, 2018 (international)February 16, 2018 (U.S.)",134 minutes,$1.347 billion
+19,Avengers: Infinity War,"April 27, 2018",149 minutes,$2.049 billion
+20,Ant-Man and the Wasp,"July 4, 2018 (international)July 6, 2018 (U.S.)August 3, 2018 (U.K.)",118 minutes,$622.7 million
+21,Captain Marvel,"March 8, 2019",124 minutes,$1.128 billion
+22,Avengers: Endgame,"April 26, 2019June 28, 2019 (re-release)",181 minutes,$2.798 billion
+23,Spider-Man: Far From Home,"July 2, 2019August 30, 2019 (re-release)",129 minutes,$1.131 billion
+24,Black Widow,"July 9, 2021",134 minutes,$379.2 million$125 million (streaming)
+25,Shang-Chi and the Legend of the Ten Rings,"September 3, 2021",132 minutes,$432.2 million
+26,Eternals,"November 5, 2021",157 minutes,$402 million
+27,Spider-Man: No Way Home,"December 17, 2021September 2, 2022 (re-release)",148 minutes,$1.901 billion
+28,Doctor Strange in the Multiverse of Madness,"May 6, 2022",126 minutes,$953.5 million
+29,Thor: Love and Thunder,"July 8, 2022",119 minutes,$505.2 million
+30,Black Panther: Wakanda Forever,"November 11, 2022[4]",,
+31,Ant-Man and the Wasp: Quantumania,"February 17, 2023[4]",,
+32,Guardians of the Galaxy Vol. 3,"May 5, 2023[4]",,
+33,The Marvels,"July 28, 2023[4]",,
+34,Fantastic Four,,,
+35,Blade,,,
